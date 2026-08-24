@@ -1,0 +1,10 @@
+Variable,Mean,SD,Median,Min,Max,Skew
+Time_Spent,317.953,165.724,325.0,30.0,600.0,-0.01
+Total_Actions,56.442,26.51,58.0,10.0,100.0,-0.09
+Correct_Responses,28.247,22.574,23.0,0.0,98.0,0.83
+Incorrect_Responses,28.195,22.876,23.0,0.0,97.0,0.96
+Hint_Usage,2.452,1.721,2.0,0.0,5.0,0.03
+Eye_Tracking_Focus_Duration,17.405,7.501,17.505,5.02,29.96,0.01
+Touch_Interactions,27.256,13.282,27.0,5.0,50.0,0.01
+Reaction_Time,1.716,0.737,1.73,0.5,3.0,0.05
+Accuracy_Rate,0.501,0.295,0.509,0.0,1.0,-0.06

@@ -1,0 +1,6 @@
+Hypothesis,Prediction,Result,Effect_size,Supported
+H1,Cognitive level relates to performance & completion,"chi2=0.793, p=0.9394 (performance); chi2=5.038, p=0.0806 (completion)",V=0.02-0.071,No
+H2,Hint usage & incorrect responses differ by performance level,Hint usage p=0.2932; Incorrect responses p=0.0,eta2=0.0025 / 0.1125,Partial
+H3,Engagement indicators relate to accuracy & completion,"All |r| <= .03, all p > .33",r ~ 0.00-0.03,No
+H4,"Exhibit modality affects engagement, performance, reaction time",All chi2/F tests n.s. (p > .27),V/eta2 ~ 0.00,No
+H5,Crowd level affects completion & time on task,Completion p=0.3083; Time on task p=0.0349,V=0.049; eta2=0.0067,Partial (negligible)

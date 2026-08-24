@@ -1,0 +1,1001 @@
+Participant_ID,Age_Group,Cognitive_Level,Game_Session_ID,Time_Spent,Total_Actions,Correct_Responses,Incorrect_Responses,Hint_Usage,Game_Completion_Status,Engagement_Level,Eye_Tracking_Focus_Duration,Touch_Interactions,Facial_Expression_Sentiment,Reaction_Time,Museum_Exhibit_Type,Crowd_Level,Performance_Level
+P1,3-5,Early,S1,67,37,9,28,3,0,Medium,22.72,17,Neutral,1.86,VR-based,High,Struggling
+P2,3-5,Early,S2,254,71,9,62,2,1,Low,15.79,47,Neutral,1.29,Physical Display,High,Disengaged
+P3,3-5,Early,S3,426,69,14,55,2,0,High,22.56,18,Frustrated,2.63,AR-based,High,Struggling
+P4,9-12,Early,S4,169,75,20,55,3,1,High,16.89,5,Neutral,2.25,AR-based,Medium,Struggling
+P5,9-12,Early,S5,478,83,49,34,0,0,Medium,29.02,32,Frustrated,1.98,AR-based,Medium,Struggling
+P6,3-5,Early,S6,580,59,14,45,2,0,High,23.97,21,Frustrated,0.55,Physical Display,Medium,Struggling
+P7,3-5,Early,S7,191,70,6,64,3,1,Medium,24.82,46,Neutral,1.87,Physical Display,Medium,Struggling
+P8,6-8,Early,S8,171,41,21,20,3,0,Medium,21.03,8,Frustrated,1.78,AR-based,Medium,Struggling
+P9,9-12,Advanced,S9,565,49,40,9,3,0,Medium,24.01,29,Frustrated,1.42,VR-based,High,Struggling
+P10,6-8,Developing,S10,133,53,24,29,2,1,High,29.88,48,Happy,1.51,Physical Display,High,Struggling
+P11,9-12,Developing,S11,600,54,36,18,4,0,Low,15.6,24,Frustrated,1.94,AR-based,Low,Disengaged
+P12,3-5,Advanced,S12,70,12,5,7,4,0,High,7.06,46,Frustrated,1.01,VR-based,Low,Struggling
+P13,3-5,Early,S13,500,91,11,80,2,0,High,17.17,25,Neutral,1.49,VR-based,Low,Struggling
+P14,6-8,Early,S14,527,96,49,47,5,1,High,5.22,19,Neutral,1.67,AR-based,Low,Struggling
+P15,9-12,Developing,S15,88,80,1,79,0,1,Low,22.32,6,Happy,2.51,Physical Display,Low,Disengaged
+P16,6-8,Early,S16,535,20,9,11,2,1,Medium,18.11,49,Neutral,0.7,VR-based,Low,Struggling
+P17,6-8,Developing,S17,279,28,7,21,1,0,High,20.65,46,Neutral,1.42,AR-based,High,Struggling
+P18,3-5,Developing,S18,471,93,22,71,1,0,High,13.12,14,Neutral,1.74,VR-based,Medium,Struggling
+P19,9-12,Early,S19,462,27,25,2,5,0,Low,5.5,12,Neutral,1.66,Physical Display,High,Disengaged
+P20,3-5,Developing,S20,526,66,48,18,3,0,Medium,26.68,31,Frustrated,2.13,AR-based,High,Struggling
+P21,3-5,Advanced,S21,300,71,15,56,1,1,High,19.02,19,Neutral,1.2,VR-based,Low,Struggling
+P22,3-5,Developing,S22,69,50,28,22,1,1,Low,27.0,20,Frustrated,2.36,AR-based,Medium,Disengaged
+P23,6-8,Developing,S23,582,10,1,9,3,0,Low,12.45,29,Frustrated,1.22,Physical Display,High,Disengaged
+P24,3-5,Early,S24,114,53,6,47,2,1,High,22.87,9,Frustrated,1.62,VR-based,Medium,Struggling
+P25,9-12,Early,S25,323,87,26,61,1,1,High,6.21,27,Frustrated,2.66,VR-based,Low,Struggling
+P26,9-12,Early,S26,330,22,10,12,0,0,Medium,14.51,28,Neutral,2.7,Physical Display,Low,Struggling
+P27,6-8,Developing,S27,588,75,71,4,2,1,High,22.2,35,Neutral,0.61,Physical Display,Low,Optimal
+P28,6-8,Advanced,S28,112,77,56,21,4,0,High,13.46,50,Happy,2.81,AR-based,High,Optimal
+P29,9-12,Developing,S29,478,52,23,29,4,0,High,20.0,27,Frustrated,1.63,Physical Display,Medium,Struggling
+P30,9-12,Advanced,S30,502,75,40,35,2,0,Medium,12.4,5,Neutral,2.31,Physical Display,Low,Struggling
+P31,3-5,Early,S31,269,57,29,28,2,0,Low,28.95,30,Happy,2.2,Physical Display,Medium,Disengaged
+P32,3-5,Developing,S32,556,66,31,35,5,1,Medium,6.82,31,Happy,2.54,Physical Display,Medium,Struggling
+P33,9-12,Early,S33,352,51,9,42,4,1,Medium,11.12,44,Neutral,2.19,Physical Display,Medium,Struggling
+P34,3-5,Early,S34,195,90,57,33,1,1,High,28.09,13,Neutral,0.84,AR-based,High,Struggling
+P35,9-12,Developing,S35,568,85,29,56,0,0,Medium,16.59,38,Happy,1.45,AR-based,High,Struggling
+P36,3-5,Advanced,S36,102,52,48,4,0,1,High,22.24,25,Happy,0.7,Physical Display,Medium,Optimal
+P37,6-8,Early,S37,416,36,5,31,0,1,Low,16.89,47,Frustrated,2.15,VR-based,Low,Disengaged
+P38,9-12,Advanced,S38,265,14,0,14,0,1,High,28.43,28,Frustrated,2.69,VR-based,Medium,Struggling
+P39,3-5,Developing,S39,362,45,44,1,4,1,High,16.49,34,Happy,2.24,VR-based,Medium,Optimal
+P40,3-5,Developing,S40,550,72,44,28,0,1,Low,11.24,41,Happy,0.93,AR-based,High,Disengaged
+P41,9-12,Early,S41,34,12,9,3,5,0,Medium,14.43,29,Neutral,2.77,VR-based,Medium,Disengaged
+P42,9-12,Early,S42,274,67,55,12,3,1,Medium,29.25,31,Frustrated,0.62,VR-based,Medium,Struggling
+P43,9-12,Advanced,S43,388,24,11,13,1,1,High,11.69,34,Happy,1.79,AR-based,Low,Struggling
+P44,9-12,Advanced,S44,567,80,34,46,1,0,Medium,21.11,18,Frustrated,2.09,Physical Display,Low,Struggling
+P45,6-8,Early,S45,251,88,78,10,2,0,High,29.11,40,Happy,2.08,Physical Display,High,Optimal
+P46,9-12,Developing,S46,93,46,26,20,4,1,Medium,5.09,50,Frustrated,1.82,VR-based,Low,Struggling
+P47,6-8,Early,S47,104,50,6,44,0,1,High,8.63,17,Happy,0.92,Physical Display,Low,Struggling
+P48,3-5,Early,S48,579,62,54,8,5,0,Low,8.04,6,Frustrated,2.32,AR-based,High,Disengaged
+P49,9-12,Developing,S49,128,45,30,15,3,1,High,18.69,18,Frustrated,1.91,AR-based,High,Struggling
+P50,9-12,Early,S50,105,71,32,39,0,0,High,28.83,28,Neutral,2.1,VR-based,High,Struggling
+P51,3-5,Developing,S51,139,72,27,45,4,1,Medium,26.79,25,Frustrated,1.8,AR-based,Low,Struggling
+P52,3-5,Developing,S52,50,21,13,8,4,1,Medium,18.22,30,Frustrated,2.76,AR-based,Low,Disengaged
+P53,9-12,Developing,S53,140,75,50,25,5,0,Low,14.76,41,Neutral,0.86,AR-based,High,Disengaged
+P54,6-8,Early,S54,325,69,34,35,4,0,High,14.95,26,Frustrated,1.27,Physical Display,Medium,Struggling
+P55,9-12,Developing,S55,419,26,20,6,0,0,Medium,11.32,25,Happy,1.69,Physical Display,Medium,Struggling
+P56,3-5,Advanced,S56,85,14,5,9,5,0,High,11.79,22,Frustrated,1.39,Physical Display,Medium,Struggling
+P57,9-12,Developing,S57,383,26,19,7,1,0,High,8.3,36,Frustrated,2.24,Physical Display,Low,Optimal
+P58,9-12,Early,S58,374,33,31,2,1,1,Medium,22.88,43,Neutral,1.97,AR-based,Low,Struggling
+P59,3-5,Early,S59,358,64,16,48,3,1,High,19.95,13,Happy,2.92,Physical Display,High,Struggling
+P60,6-8,Early,S60,205,96,72,24,1,1,Medium,5.99,34,Frustrated,1.99,AR-based,Low,Struggling
+P61,3-5,Advanced,S61,344,82,64,18,2,0,Low,25.43,48,Neutral,2.07,VR-based,Medium,Disengaged
+P62,6-8,Developing,S62,38,34,7,27,0,0,Low,16.32,36,Neutral,0.67,VR-based,High,Disengaged
+P63,6-8,Early,S63,151,81,17,64,2,0,Medium,20.61,26,Neutral,1.63,AR-based,Low,Struggling
+P64,6-8,Early,S64,410,34,32,2,3,1,Low,5.42,9,Frustrated,1.9,AR-based,Low,Disengaged
+P65,9-12,Early,S65,142,37,25,12,3,1,Low,15.22,21,Happy,1.51,Physical Display,High,Disengaged
+P66,9-12,Advanced,S66,52,100,77,23,0,1,High,26.88,22,Neutral,2.69,Physical Display,Medium,Optimal
+P67,3-5,Advanced,S67,111,19,12,7,4,0,Medium,14.44,23,Neutral,1.8,AR-based,Medium,Struggling
+P68,6-8,Developing,S68,150,99,90,9,1,1,Medium,9.8,36,Frustrated,2.36,VR-based,High,Struggling
+P69,6-8,Advanced,S69,394,97,72,25,2,0,High,15.11,17,Neutral,0.83,AR-based,Low,Optimal
+P70,6-8,Advanced,S70,137,50,50,0,3,1,Low,27.07,6,Neutral,2.03,AR-based,Medium,Disengaged
+P71,9-12,Advanced,S71,524,92,6,86,4,1,Medium,17.94,5,Neutral,2.49,AR-based,Medium,Struggling
+P72,3-5,Advanced,S72,300,38,33,5,1,1,Medium,26.26,9,Frustrated,1.38,VR-based,Medium,Struggling
+P73,6-8,Advanced,S73,341,71,52,19,3,0,High,8.31,23,Happy,2.85,VR-based,High,Optimal
+P74,3-5,Developing,S74,163,28,10,18,4,0,Low,15.4,41,Frustrated,1.23,Physical Display,Medium,Disengaged
+P75,3-5,Developing,S75,270,73,49,24,5,0,Medium,17.88,39,Neutral,2.17,VR-based,High,Struggling
+P76,9-12,Advanced,S76,403,73,59,14,1,0,Medium,24.89,40,Neutral,0.99,Physical Display,High,Struggling
+P77,9-12,Developing,S77,384,63,26,37,2,0,Medium,7.89,21,Neutral,1.47,Physical Display,High,Struggling
+P78,9-12,Early,S78,159,72,49,23,3,1,High,28.1,25,Frustrated,2.41,VR-based,High,Struggling
+P79,6-8,Early,S79,163,78,7,71,3,0,Medium,15.45,19,Frustrated,1.46,AR-based,Medium,Struggling
+P80,6-8,Early,S80,103,44,35,9,3,1,High,17.56,8,Happy,1.74,AR-based,Medium,Optimal
+P81,6-8,Advanced,S81,343,27,4,23,2,1,High,7.46,31,Frustrated,1.32,AR-based,Low,Struggling
+P82,9-12,Advanced,S82,410,34,10,24,4,0,Medium,28.87,32,Happy,0.95,VR-based,Low,Struggling
+P83,6-8,Developing,S83,556,58,5,53,1,1,Low,9.43,20,Happy,2.96,VR-based,Low,Disengaged
+P84,6-8,Developing,S84,425,43,39,4,0,1,High,20.06,40,Neutral,2.41,Physical Display,Medium,Optimal
+P85,6-8,Early,S85,365,53,3,50,0,1,High,16.52,26,Happy,1.36,VR-based,Low,Struggling
+P86,3-5,Early,S86,534,58,32,26,5,1,High,5.14,22,Happy,1.06,VR-based,Low,Struggling
+P87,3-5,Developing,S87,537,44,1,43,1,0,High,12.67,5,Neutral,1.49,AR-based,High,Struggling
+P88,9-12,Developing,S88,33,97,50,47,3,1,High,10.07,29,Happy,2.45,Physical Display,Low,Disengaged
+P89,6-8,Developing,S89,126,13,8,5,5,1,Medium,21.11,9,Frustrated,0.58,Physical Display,High,Struggling
+P90,3-5,Advanced,S90,47,54,35,19,4,0,High,26.18,36,Frustrated,2.66,Physical Display,High,Disengaged
+P91,9-12,Advanced,S91,216,21,15,6,4,1,Medium,27.78,32,Frustrated,1.68,AR-based,High,Struggling
+P92,9-12,Early,S92,508,92,26,66,3,0,High,17.6,27,Happy,1.74,Physical Display,Low,Struggling
+P93,6-8,Early,S93,262,73,6,67,4,1,Medium,26.75,12,Neutral,1.83,Physical Display,High,Struggling
+P94,9-12,Early,S94,136,60,3,57,0,1,High,17.4,8,Neutral,2.05,VR-based,High,Struggling
+P95,3-5,Early,S95,62,83,2,81,2,1,High,6.56,15,Neutral,2.18,VR-based,High,Struggling
+P96,6-8,Advanced,S96,63,78,20,58,3,1,Medium,26.14,13,Happy,1.84,Physical Display,High,Struggling
+P97,9-12,Advanced,S97,418,46,8,38,5,0,Low,6.62,43,Frustrated,2.53,VR-based,High,Disengaged
+P98,6-8,Advanced,S98,62,60,57,3,5,0,Low,13.32,46,Neutral,0.65,AR-based,High,Disengaged
+P99,3-5,Advanced,S99,99,42,5,37,3,0,High,5.98,9,Neutral,2.75,Physical Display,Low,Struggling
+P100,6-8,Developing,S100,45,18,3,15,2,1,High,11.46,40,Happy,2.06,AR-based,Medium,Disengaged
+P101,9-12,Early,S101,420,77,63,14,0,0,High,12.46,8,Happy,1.8,AR-based,High,Optimal
+P102,9-12,Developing,S102,520,17,10,7,1,1,Medium,28.14,24,Neutral,2.17,VR-based,High,Struggling
+P103,3-5,Advanced,S103,189,43,20,23,4,1,Medium,14.65,31,Frustrated,2.96,VR-based,Low,Struggling
+P104,9-12,Early,S104,543,95,82,13,4,0,Medium,25.7,32,Frustrated,1.88,AR-based,Medium,Struggling
+P105,6-8,Developing,S105,551,81,22,59,5,0,High,12.28,39,Frustrated,0.6,VR-based,Medium,Struggling
+P106,6-8,Early,S106,365,19,7,12,2,1,High,14.64,40,Frustrated,2.21,VR-based,Low,Struggling
+P107,6-8,Advanced,S107,203,42,35,7,0,1,High,18.78,13,Frustrated,2.46,VR-based,High,Optimal
+P108,6-8,Advanced,S108,588,79,46,33,2,0,Low,20.38,8,Frustrated,2.83,VR-based,Low,Disengaged
+P109,6-8,Early,S109,330,29,9,20,0,1,Medium,10.57,21,Happy,2.43,Physical Display,Low,Struggling
+P110,3-5,Early,S110,40,75,26,49,2,1,High,19.17,42,Frustrated,1.79,Physical Display,Medium,Disengaged
+P111,6-8,Developing,S111,134,59,53,6,1,1,Medium,7.61,5,Frustrated,1.16,VR-based,Low,Struggling
+P112,3-5,Developing,S112,533,31,9,22,1,1,Medium,27.16,25,Happy,1.07,Physical Display,Medium,Struggling
+P113,6-8,Early,S113,294,20,6,14,3,0,Low,25.24,12,Neutral,1.39,AR-based,Medium,Disengaged
+P114,3-5,Advanced,S114,468,38,21,17,5,0,High,26.9,35,Frustrated,1.76,Physical Display,Medium,Struggling
+P115,3-5,Developing,S115,351,87,5,82,4,1,Low,5.02,49,Frustrated,2.31,VR-based,High,Disengaged
+P116,9-12,Early,S116,325,26,24,2,0,1,High,27.06,48,Frustrated,2.35,AR-based,Low,Optimal
+P117,6-8,Advanced,S117,398,84,14,70,1,1,Medium,27.35,17,Frustrated,2.57,VR-based,High,Struggling
+P118,6-8,Advanced,S118,126,73,60,13,4,1,Low,16.97,39,Happy,2.05,VR-based,Low,Disengaged
+P119,6-8,Advanced,S119,333,52,16,36,4,0,Medium,6.06,36,Happy,2.14,Physical Display,High,Struggling
+P120,9-12,Developing,S120,162,83,1,82,5,1,High,16.45,38,Neutral,2.07,Physical Display,High,Struggling
+P121,6-8,Advanced,S121,297,91,73,18,2,1,Medium,22.47,16,Happy,0.58,AR-based,High,Struggling
+P122,6-8,Developing,S122,383,74,62,12,5,0,Low,26.8,19,Neutral,2.36,VR-based,Medium,Disengaged
+P123,6-8,Advanced,S123,212,45,18,27,5,1,High,6.49,8,Neutral,2.91,Physical Display,Low,Struggling
+P124,3-5,Advanced,S124,287,62,21,41,5,0,Medium,25.27,47,Happy,2.06,VR-based,Medium,Struggling
+P125,9-12,Early,S125,369,67,41,26,0,1,High,29.24,11,Frustrated,2.7,Physical Display,High,Struggling
+P126,6-8,Developing,S126,503,62,27,35,1,1,High,5.18,41,Frustrated,1.59,Physical Display,Low,Struggling
+P127,3-5,Advanced,S127,125,39,12,27,0,0,Medium,23.62,15,Happy,2.78,VR-based,High,Struggling
+P128,9-12,Advanced,S128,225,19,17,2,0,0,Low,28.88,35,Frustrated,1.46,Physical Display,Low,Disengaged
+P129,6-8,Early,S129,499,53,27,26,2,1,Medium,18.07,25,Happy,0.71,AR-based,Medium,Struggling
+P130,9-12,Advanced,S130,597,43,35,8,5,1,High,23.5,46,Happy,2.52,Physical Display,High,Optimal
+P131,9-12,Advanced,S131,153,76,38,38,1,1,Low,29.16,24,Frustrated,1.56,VR-based,High,Disengaged
+P132,9-12,Early,S132,411,34,0,34,5,0,Medium,27.47,47,Neutral,0.57,VR-based,High,Struggling
+P133,6-8,Advanced,S133,510,87,65,22,5,0,High,6.42,43,Frustrated,2.94,AR-based,Medium,Optimal
+P134,6-8,Developing,S134,424,73,63,10,1,0,High,21.21,26,Neutral,0.7,AR-based,Medium,Optimal
+P135,6-8,Early,S135,66,40,13,27,4,1,Low,6.4,39,Happy,2.91,AR-based,Low,Disengaged
+P136,6-8,Developing,S136,549,61,46,15,1,1,High,9.47,26,Happy,0.6,VR-based,Low,Optimal
+P137,9-12,Advanced,S137,268,87,1,86,0,0,High,24.65,28,Neutral,2.68,Physical Display,Low,Struggling
+P138,3-5,Developing,S138,586,19,0,19,0,1,Medium,15.18,36,Frustrated,1.69,Physical Display,High,Struggling
+P139,9-12,Developing,S139,243,53,0,53,0,0,Medium,8.76,49,Neutral,1.38,Physical Display,Medium,Struggling
+P140,3-5,Advanced,S140,373,95,92,3,3,0,Medium,19.92,40,Frustrated,0.62,AR-based,High,Struggling
+P141,6-8,Advanced,S141,263,99,68,31,1,0,High,15.36,7,Neutral,1.46,VR-based,Low,Struggling
+P142,3-5,Advanced,S142,578,16,2,14,0,1,High,23.78,18,Neutral,2.58,Physical Display,Medium,Struggling
+P143,3-5,Developing,S143,596,62,34,28,3,0,High,23.42,42,Happy,0.7,Physical Display,High,Struggling
+P144,6-8,Early,S144,422,53,41,12,3,1,High,23.7,19,Frustrated,2.03,VR-based,Low,Optimal
+P145,3-5,Developing,S145,391,11,4,7,4,1,Medium,14.21,48,Neutral,1.9,VR-based,High,Struggling
+P146,3-5,Early,S146,218,75,31,44,4,1,High,15.41,39,Neutral,0.86,Physical Display,Low,Struggling
+P147,3-5,Developing,S147,464,57,56,1,5,1,Medium,24.88,40,Happy,1.48,VR-based,High,Struggling
+P148,9-12,Early,S148,318,25,20,5,2,1,High,5.18,13,Frustrated,2.11,Physical Display,Low,Optimal
+P149,9-12,Advanced,S149,210,73,31,42,4,1,Medium,29.02,14,Neutral,1.89,Physical Display,Low,Struggling
+P150,9-12,Early,S150,353,14,10,4,2,1,High,5.85,39,Happy,0.74,AR-based,High,Optimal
+P151,9-12,Advanced,S151,599,74,53,21,1,1,High,19.02,15,Happy,2.61,VR-based,Medium,Optimal
+P152,3-5,Developing,S152,554,19,12,7,4,1,Medium,15.22,41,Happy,1.51,VR-based,Low,Struggling
+P153,6-8,Early,S153,97,32,6,26,5,1,Medium,5.2,14,Neutral,1.08,AR-based,Medium,Struggling
+P154,6-8,Developing,S154,235,39,33,6,4,0,Medium,17.75,18,Happy,2.36,Physical Display,High,Struggling
+P155,3-5,Developing,S155,320,96,51,45,5,0,Low,5.87,33,Neutral,1.07,VR-based,Medium,Disengaged
+P156,3-5,Developing,S156,579,55,31,24,4,0,Medium,14.41,47,Frustrated,2.13,Physical Display,Medium,Struggling
+P157,6-8,Advanced,S157,334,65,27,38,2,0,Medium,23.26,26,Happy,1.47,Physical Display,Medium,Struggling
+P158,6-8,Early,S158,147,16,1,15,0,1,Medium,5.03,46,Happy,2.96,AR-based,Medium,Struggling
+P159,6-8,Developing,S159,371,96,36,60,1,1,Medium,29.42,41,Frustrated,0.89,VR-based,Low,Struggling
+P160,6-8,Advanced,S160,380,60,29,31,0,1,Medium,24.79,15,Frustrated,1.22,VR-based,Low,Struggling
+P161,3-5,Early,S161,120,78,26,52,5,1,Low,28.06,10,Neutral,2.35,VR-based,Low,Disengaged
+P162,9-12,Early,S162,508,43,8,35,4,1,High,13.0,41,Happy,0.95,AR-based,Medium,Struggling
+P163,3-5,Early,S163,584,45,1,44,5,0,Low,17.33,6,Frustrated,0.72,Physical Display,Low,Disengaged
+P164,9-12,Developing,S164,108,39,15,24,0,0,Low,29.7,26,Frustrated,2.01,VR-based,High,Disengaged
+P165,6-8,Developing,S165,560,46,31,15,1,1,Medium,6.82,32,Happy,1.62,VR-based,Low,Struggling
+P166,9-12,Advanced,S166,146,61,14,47,1,0,High,10.92,20,Neutral,0.68,VR-based,Low,Struggling
+P167,6-8,Advanced,S167,221,100,5,95,5,0,High,25.63,16,Frustrated,2.37,VR-based,Low,Struggling
+P168,6-8,Early,S168,298,77,16,61,4,0,Low,9.08,48,Happy,2.94,Physical Display,Medium,Disengaged
+P169,6-8,Developing,S169,461,52,21,31,1,0,Low,23.63,24,Neutral,2.71,Physical Display,Medium,Disengaged
+P170,3-5,Developing,S170,508,60,52,8,4,0,High,11.12,39,Happy,2.3,Physical Display,Medium,Optimal
+P171,3-5,Early,S171,457,90,64,26,3,0,High,27.71,35,Happy,0.51,Physical Display,Medium,Optimal
+P172,3-5,Early,S172,346,85,26,59,2,1,High,16.41,12,Neutral,2.76,AR-based,Low,Struggling
+P173,6-8,Advanced,S173,481,99,86,13,2,0,Medium,24.68,45,Neutral,1.48,AR-based,Medium,Struggling
+P174,6-8,Developing,S174,171,59,46,13,2,1,High,23.96,22,Frustrated,1.95,VR-based,Low,Optimal
+P175,6-8,Early,S175,508,10,1,9,1,0,Medium,23.36,40,Frustrated,1.85,AR-based,Medium,Struggling
+P176,3-5,Developing,S176,161,18,2,16,1,0,High,11.65,33,Happy,2.88,AR-based,Low,Struggling
+P177,6-8,Early,S177,294,57,42,15,2,0,High,24.19,49,Happy,2.18,Physical Display,Medium,Optimal
+P178,3-5,Developing,S178,572,54,15,39,2,1,Medium,13.04,26,Happy,1.94,VR-based,Low,Struggling
+P179,6-8,Developing,S179,467,56,40,16,4,0,High,28.48,21,Neutral,2.09,AR-based,Medium,Optimal
+P180,9-12,Early,S180,254,15,1,14,0,0,High,5.52,21,Happy,1.88,VR-based,Medium,Struggling
+P181,3-5,Developing,S181,556,12,7,5,5,1,Medium,17.48,17,Neutral,2.44,AR-based,Medium,Struggling
+P182,6-8,Advanced,S182,421,40,4,36,3,1,Low,25.78,24,Happy,0.6,Physical Display,Medium,Disengaged
+P183,3-5,Early,S183,594,76,1,75,4,1,Medium,20.61,31,Frustrated,0.85,VR-based,Low,Struggling
+P184,6-8,Developing,S184,77,41,1,40,0,0,High,24.09,12,Neutral,2.49,AR-based,High,Struggling
+P185,3-5,Developing,S185,471,94,71,23,1,1,Medium,11.42,32,Frustrated,1.52,AR-based,High,Struggling
+P186,6-8,Developing,S186,154,20,8,12,0,1,High,28.86,38,Neutral,1.56,VR-based,Low,Struggling
+P187,9-12,Advanced,S187,551,99,11,88,2,0,Low,12.88,37,Frustrated,1.2,AR-based,Medium,Disengaged
+P188,6-8,Early,S188,508,80,31,49,2,1,High,29.14,22,Frustrated,0.65,AR-based,High,Struggling
+P189,9-12,Advanced,S189,250,89,35,54,2,0,High,18.87,27,Neutral,2.17,AR-based,Low,Struggling
+P190,9-12,Early,S190,459,83,62,21,2,1,Low,28.53,5,Happy,2.03,AR-based,Medium,Disengaged
+P191,3-5,Early,S191,42,15,10,5,1,1,Medium,19.0,15,Neutral,2.38,AR-based,Low,Disengaged
+P192,9-12,Advanced,S192,152,89,19,70,2,1,High,28.84,26,Neutral,0.61,VR-based,High,Struggling
+P193,6-8,Developing,S193,285,92,0,92,4,0,Medium,7.5,14,Frustrated,1.82,Physical Display,Low,Struggling
+P194,3-5,Early,S194,290,32,14,18,3,1,High,19.3,8,Neutral,1.41,VR-based,Medium,Struggling
+P195,9-12,Early,S195,503,70,62,8,1,0,High,6.35,9,Frustrated,0.97,Physical Display,Medium,Optimal
+P196,3-5,Developing,S196,269,61,53,8,1,0,Medium,5.13,36,Frustrated,2.73,VR-based,Medium,Struggling
+P197,9-12,Advanced,S197,580,63,54,9,4,0,High,5.57,42,Neutral,0.84,VR-based,Low,Optimal
+P198,6-8,Developing,S198,59,63,35,28,4,1,Medium,7.32,36,Frustrated,1.84,Physical Display,Low,Disengaged
+P199,3-5,Developing,S199,166,10,0,10,0,1,Low,9.78,46,Neutral,0.92,AR-based,Medium,Disengaged
+P200,3-5,Advanced,S200,357,14,0,14,2,0,Medium,8.22,26,Happy,2.35,AR-based,Low,Struggling
+P201,6-8,Advanced,S201,482,24,16,8,1,0,Low,26.87,22,Frustrated,2.92,VR-based,High,Disengaged
+P202,6-8,Developing,S202,352,85,66,19,2,0,High,9.34,38,Frustrated,2.13,VR-based,Low,Optimal
+P203,9-12,Early,S203,551,80,58,22,4,1,Medium,15.31,32,Frustrated,2.75,Physical Display,Low,Struggling
+P204,6-8,Early,S204,96,65,42,23,4,0,High,10.09,48,Happy,1.04,VR-based,Low,Struggling
+P205,9-12,Advanced,S205,33,39,5,34,1,1,High,20.28,9,Neutral,0.81,AR-based,Low,Disengaged
+P206,6-8,Advanced,S206,540,56,1,55,3,1,Low,11.4,12,Happy,2.89,AR-based,Low,Disengaged
+P207,6-8,Advanced,S207,99,89,50,39,5,0,High,15.44,13,Frustrated,1.77,VR-based,Low,Struggling
+P208,6-8,Advanced,S208,184,52,21,31,0,1,High,28.94,40,Happy,2.13,VR-based,Low,Struggling
+P209,3-5,Developing,S209,221,86,58,28,0,0,High,24.83,31,Neutral,1.39,VR-based,High,Struggling
+P210,9-12,Early,S210,566,63,11,52,3,1,Low,15.43,18,Frustrated,2.2,AR-based,High,Disengaged
+P211,9-12,Developing,S211,80,51,29,22,5,1,Medium,17.57,48,Frustrated,1.69,VR-based,High,Struggling
+P212,9-12,Developing,S212,470,84,65,19,0,0,Medium,12.34,17,Happy,1.0,AR-based,High,Struggling
+P213,9-12,Advanced,S213,458,55,13,42,1,1,High,13.58,45,Happy,1.01,Physical Display,Low,Struggling
+P214,3-5,Advanced,S214,242,10,4,6,3,1,Low,18.3,7,Neutral,2.15,AR-based,Medium,Disengaged
+P215,9-12,Early,S215,153,78,56,22,2,0,High,13.5,48,Neutral,0.74,Physical Display,Low,Optimal
+P216,9-12,Advanced,S216,153,68,61,7,5,0,Medium,13.82,20,Neutral,1.86,Physical Display,High,Struggling
+P217,3-5,Developing,S217,92,15,0,15,0,1,Low,27.49,50,Neutral,2.92,Physical Display,Low,Disengaged
+P218,6-8,Advanced,S218,130,59,12,47,3,0,High,6.7,32,Neutral,1.13,AR-based,High,Struggling
+P219,3-5,Developing,S219,392,34,6,28,0,0,High,11.47,29,Neutral,1.62,Physical Display,High,Struggling
+P220,9-12,Developing,S220,565,15,3,12,1,0,High,13.95,45,Frustrated,0.64,Physical Display,High,Struggling
+P221,6-8,Developing,S221,360,34,22,12,5,1,High,11.75,32,Frustrated,2.25,VR-based,High,Struggling
+P222,3-5,Advanced,S222,354,20,12,8,3,1,High,9.54,13,Neutral,0.56,AR-based,Medium,Struggling
+P223,6-8,Early,S223,82,90,36,54,3,0,Low,6.49,11,Happy,2.96,VR-based,High,Disengaged
+P224,6-8,Early,S224,366,34,13,21,1,1,High,16.79,46,Happy,0.61,VR-based,High,Struggling
+P225,6-8,Advanced,S225,558,16,5,11,2,1,Low,25.08,22,Happy,0.83,Physical Display,High,Disengaged
+P226,9-12,Advanced,S226,308,32,20,12,0,1,Medium,17.83,19,Frustrated,0.78,Physical Display,High,Struggling
+P227,9-12,Early,S227,152,66,61,5,0,1,Medium,27.5,22,Neutral,2.09,Physical Display,High,Struggling
+P228,6-8,Advanced,S228,224,67,3,64,1,1,Medium,14.11,38,Frustrated,2.35,AR-based,Low,Struggling
+P229,9-12,Advanced,S229,327,29,12,17,5,1,Low,5.07,50,Neutral,1.6,VR-based,High,Disengaged
+P230,9-12,Developing,S230,487,90,16,74,3,0,Medium,13.53,7,Neutral,0.79,AR-based,Medium,Struggling
+P231,9-12,Developing,S231,158,26,1,25,1,0,Low,21.89,24,Happy,0.53,AR-based,Medium,Disengaged
+P232,6-8,Developing,S232,597,85,18,67,0,0,Medium,7.41,5,Neutral,0.99,VR-based,Medium,Struggling
+P233,6-8,Early,S233,347,56,10,46,4,0,Medium,22.47,43,Frustrated,1.35,AR-based,High,Struggling
+P234,3-5,Developing,S234,303,32,2,30,2,0,Low,21.11,9,Neutral,1.78,VR-based,Medium,Disengaged
+P235,3-5,Developing,S235,200,26,13,13,3,1,Medium,15.68,7,Frustrated,0.63,AR-based,Low,Struggling
+P236,6-8,Early,S236,129,90,34,56,2,0,Medium,29.96,7,Frustrated,0.76,Physical Display,High,Struggling
+P237,6-8,Advanced,S237,312,84,6,78,4,0,High,17.32,22,Neutral,2.79,AR-based,Low,Struggling
+P238,9-12,Advanced,S238,337,93,53,40,0,0,High,8.17,42,Neutral,0.87,AR-based,Medium,Struggling
+P239,6-8,Advanced,S239,128,90,37,53,1,0,Low,28.06,17,Frustrated,1.77,AR-based,Medium,Disengaged
+P240,6-8,Early,S240,330,44,23,21,4,0,High,5.86,28,Neutral,1.12,VR-based,Low,Struggling
+P241,3-5,Early,S241,419,57,37,20,2,0,High,20.17,6,Neutral,2.97,VR-based,Low,Struggling
+P242,9-12,Early,S242,527,83,47,36,5,0,High,8.52,44,Frustrated,1.47,Physical Display,Low,Struggling
+P243,3-5,Advanced,S243,185,66,63,3,5,0,Medium,5.22,10,Happy,0.73,VR-based,High,Struggling
+P244,3-5,Developing,S244,64,37,5,32,2,1,High,21.71,8,Frustrated,1.77,Physical Display,Medium,Struggling
+P245,6-8,Advanced,S245,178,24,11,13,2,1,Medium,10.35,33,Neutral,1.93,Physical Display,Low,Struggling
+P246,9-12,Developing,S246,140,75,6,69,5,1,Low,6.59,10,Neutral,0.76,Physical Display,High,Disengaged
+P247,6-8,Advanced,S247,165,13,1,12,0,0,Medium,26.5,39,Neutral,2.19,AR-based,Low,Struggling
+P248,9-12,Developing,S248,374,25,1,24,5,0,Low,12.96,15,Neutral,2.06,AR-based,High,Disengaged
+P249,9-12,Early,S249,291,24,20,4,3,1,Medium,16.07,48,Happy,2.38,VR-based,Medium,Struggling
+P250,6-8,Early,S250,422,44,35,9,3,1,High,18.47,46,Neutral,0.65,VR-based,High,Optimal
+P251,9-12,Developing,S251,58,43,14,29,3,0,High,9.53,50,Neutral,1.13,VR-based,High,Disengaged
+P252,3-5,Early,S252,558,31,21,10,0,1,High,17.68,37,Neutral,0.95,VR-based,Medium,Struggling
+P253,3-5,Developing,S253,522,97,96,1,3,0,High,7.23,48,Neutral,1.14,AR-based,High,Optimal
+P254,9-12,Early,S254,347,90,64,26,2,0,Medium,23.54,14,Frustrated,1.87,VR-based,Low,Struggling
+P255,3-5,Advanced,S255,176,80,1,79,3,1,High,6.79,47,Happy,1.22,AR-based,High,Struggling
+P256,6-8,Developing,S256,476,31,24,7,2,1,Medium,9.66,24,Neutral,2.26,AR-based,High,Struggling
+P257,3-5,Advanced,S257,598,89,42,47,1,1,Medium,15.53,36,Neutral,0.96,Physical Display,High,Struggling
+P258,9-12,Advanced,S258,475,31,23,8,1,0,High,24.04,14,Neutral,2.44,VR-based,Medium,Optimal
+P259,3-5,Advanced,S259,438,30,0,30,3,1,Medium,24.16,17,Frustrated,2.76,Physical Display,Low,Struggling
+P260,9-12,Developing,S260,413,82,40,42,1,0,High,24.15,40,Frustrated,1.3,VR-based,Medium,Struggling
+P261,9-12,Advanced,S261,389,85,47,38,3,1,Low,13.55,33,Frustrated,2.53,Physical Display,High,Disengaged
+P262,9-12,Early,S262,193,71,50,21,3,1,Medium,10.77,21,Neutral,2.04,AR-based,Low,Struggling
+P263,6-8,Early,S263,192,57,41,16,1,0,Medium,28.26,35,Happy,2.81,VR-based,Medium,Struggling
+P264,6-8,Early,S264,30,80,1,79,3,0,Medium,28.07,22,Happy,1.88,VR-based,Medium,Disengaged
+P265,3-5,Advanced,S265,488,55,0,55,4,0,Medium,9.26,11,Happy,1.92,Physical Display,High,Struggling
+P266,3-5,Early,S266,184,79,27,52,1,1,Low,6.68,17,Neutral,1.11,Physical Display,High,Disengaged
+P267,6-8,Developing,S267,286,58,41,17,2,0,High,26.25,12,Happy,1.21,VR-based,Medium,Optimal
+P268,6-8,Early,S268,216,15,6,9,0,0,Medium,20.77,48,Happy,0.92,Physical Display,Medium,Struggling
+P269,3-5,Advanced,S269,164,46,13,33,5,1,Medium,9.17,41,Happy,1.72,AR-based,Low,Struggling
+P270,9-12,Advanced,S270,539,100,37,63,4,0,Medium,18.48,36,Frustrated,1.52,VR-based,High,Struggling
+P271,9-12,Developing,S271,248,28,26,2,3,0,Low,14.14,36,Neutral,1.65,Physical Display,Medium,Disengaged
+P272,9-12,Early,S272,37,30,10,20,1,1,High,11.56,21,Happy,1.94,AR-based,Low,Disengaged
+P273,9-12,Developing,S273,76,64,57,7,2,0,High,25.26,26,Frustrated,1.37,AR-based,Medium,Optimal
+P274,6-8,Developing,S274,265,85,59,26,0,1,Medium,9.84,38,Neutral,2.41,VR-based,Low,Struggling
+P275,3-5,Developing,S275,473,30,28,2,4,1,High,22.89,28,Neutral,0.68,AR-based,Medium,Optimal
+P276,9-12,Early,S276,163,87,36,51,5,1,Medium,25.7,27,Neutral,1.09,VR-based,Medium,Struggling
+P277,9-12,Early,S277,354,69,55,14,5,0,High,11.15,21,Neutral,2.45,Physical Display,Low,Optimal
+P278,6-8,Developing,S278,360,65,52,13,4,1,Low,19.63,46,Frustrated,2.81,VR-based,Medium,Disengaged
+P279,3-5,Early,S279,265,38,15,23,1,0,Low,21.01,14,Neutral,0.51,AR-based,Low,Disengaged
+P280,3-5,Advanced,S280,216,56,45,11,0,0,Medium,21.25,8,Happy,2.75,VR-based,High,Struggling
+P281,6-8,Advanced,S281,293,91,68,23,4,1,Medium,29.07,8,Frustrated,2.94,Physical Display,High,Struggling
+P282,3-5,Developing,S282,349,15,15,0,3,1,Medium,21.18,38,Happy,1.02,AR-based,Low,Struggling
+P283,9-12,Early,S283,482,99,2,97,5,1,Medium,8.32,33,Happy,1.99,VR-based,High,Struggling
+P284,3-5,Early,S284,230,12,0,12,5,0,Medium,10.41,36,Neutral,0.83,Physical Display,Medium,Struggling
+P285,9-12,Advanced,S285,341,62,15,47,4,0,Medium,26.53,46,Happy,1.11,Physical Display,High,Struggling
+P286,6-8,Developing,S286,165,75,35,40,3,0,Medium,6.01,29,Neutral,1.36,Physical Display,Low,Struggling
+P287,6-8,Advanced,S287,594,66,52,14,0,0,Medium,12.84,10,Neutral,0.97,Physical Display,Medium,Struggling
+P288,6-8,Developing,S288,46,27,4,23,1,0,Low,27.98,22,Happy,1.24,VR-based,Low,Disengaged
+P289,6-8,Early,S289,313,25,21,4,4,1,High,8.03,39,Happy,0.92,AR-based,High,Optimal
+P290,3-5,Early,S290,105,16,13,3,0,0,Medium,12.03,48,Happy,0.76,AR-based,Low,Struggling
+P291,6-8,Advanced,S291,361,35,35,0,1,0,Medium,8.43,34,Frustrated,2.63,AR-based,Low,Struggling
+P292,6-8,Advanced,S292,416,65,54,11,2,1,Low,15.25,29,Frustrated,2.91,Physical Display,Low,Disengaged
+P293,3-5,Early,S293,401,90,16,74,1,1,High,24.74,45,Neutral,2.05,VR-based,High,Struggling
+P294,3-5,Early,S294,211,58,27,31,0,1,Low,21.69,28,Neutral,1.97,Physical Display,High,Disengaged
+P295,9-12,Advanced,S295,274,72,14,58,5,1,Medium,11.38,20,Happy,0.67,VR-based,Low,Struggling
+P296,6-8,Advanced,S296,42,28,18,10,3,1,High,25.01,26,Happy,2.29,AR-based,High,Disengaged
+P297,6-8,Early,S297,317,39,19,20,4,0,Medium,16.2,25,Happy,0.86,Physical Display,Medium,Struggling
+P298,3-5,Developing,S298,381,79,26,53,5,1,Low,5.6,39,Happy,1.14,Physical Display,High,Disengaged
+P299,6-8,Advanced,S299,131,96,44,52,0,0,Medium,27.82,10,Happy,0.65,VR-based,Low,Struggling
+P300,3-5,Early,S300,509,46,13,33,2,0,High,22.99,29,Frustrated,2.8,AR-based,Medium,Struggling
+P301,3-5,Developing,S301,545,89,14,75,1,0,High,12.79,9,Happy,1.72,VR-based,Medium,Struggling
+P302,3-5,Advanced,S302,33,88,70,18,0,0,Low,5.44,7,Happy,1.83,Physical Display,Low,Disengaged
+P303,9-12,Developing,S303,128,68,50,18,3,1,High,24.68,17,Frustrated,0.89,VR-based,Low,Optimal
+P304,9-12,Early,S304,369,19,1,18,1,1,Medium,9.52,5,Happy,2.02,VR-based,High,Struggling
+P305,6-8,Early,S305,154,66,57,9,3,0,Medium,26.13,33,Frustrated,1.66,AR-based,Medium,Struggling
+P306,3-5,Early,S306,464,15,6,9,3,0,Medium,22.03,5,Frustrated,1.56,Physical Display,Medium,Struggling
+P307,6-8,Advanced,S307,234,56,4,52,2,0,Medium,27.66,49,Happy,1.23,AR-based,Medium,Struggling
+P308,9-12,Early,S308,360,16,4,12,0,0,Medium,25.9,33,Happy,0.93,AR-based,Low,Struggling
+P309,6-8,Developing,S309,121,37,10,27,3,1,Low,17.85,43,Happy,1.47,VR-based,High,Disengaged
+P310,6-8,Advanced,S310,452,94,30,64,4,0,Low,20.96,11,Frustrated,2.55,Physical Display,Low,Disengaged
+P311,3-5,Advanced,S311,125,86,63,23,1,0,High,28.45,19,Frustrated,1.22,AR-based,High,Optimal
+P312,3-5,Advanced,S312,429,100,56,44,4,1,Medium,7.61,37,Neutral,0.73,VR-based,High,Struggling
+P313,9-12,Advanced,S313,552,59,15,44,4,1,Medium,7.61,40,Happy,2.98,Physical Display,Medium,Struggling
+P314,3-5,Developing,S314,493,20,0,20,0,1,Low,24.98,48,Frustrated,0.93,AR-based,Low,Disengaged
+P315,9-12,Developing,S315,44,63,26,37,3,0,Medium,20.29,23,Frustrated,1.04,VR-based,Low,Disengaged
+P316,9-12,Early,S316,320,70,17,53,3,1,High,25.95,11,Happy,0.64,VR-based,High,Struggling
+P317,9-12,Early,S317,345,81,30,51,1,0,Medium,28.42,36,Happy,0.63,Physical Display,Low,Struggling
+P318,3-5,Developing,S318,468,38,23,15,3,1,Low,17.56,5,Happy,2.28,VR-based,Low,Disengaged
+P319,6-8,Advanced,S319,238,94,1,93,1,1,High,19.66,24,Neutral,2.01,AR-based,Medium,Struggling
+P320,3-5,Advanced,S320,222,57,45,12,1,0,Low,15.95,35,Happy,2.65,VR-based,Medium,Disengaged
+P321,6-8,Developing,S321,211,100,73,27,5,1,High,22.08,10,Neutral,1.29,Physical Display,High,Optimal
+P322,6-8,Early,S322,317,95,53,42,0,1,High,19.71,15,Frustrated,0.97,Physical Display,Medium,Struggling
+P323,9-12,Early,S323,330,81,36,45,4,1,High,7.34,13,Happy,1.5,Physical Display,Medium,Struggling
+P324,9-12,Developing,S324,562,69,18,51,1,0,High,22.2,36,Neutral,1.04,Physical Display,High,Struggling
+P325,6-8,Developing,S325,369,95,87,8,4,0,Medium,21.18,13,Happy,2.43,VR-based,High,Struggling
+P326,3-5,Developing,S326,66,23,0,23,3,1,Medium,29.3,32,Happy,2.32,AR-based,Medium,Struggling
+P327,9-12,Advanced,S327,437,42,18,24,5,1,Medium,8.97,40,Happy,2.43,VR-based,Low,Struggling
+P328,6-8,Developing,S328,140,95,56,39,1,0,Medium,8.67,43,Neutral,0.52,AR-based,Medium,Struggling
+P329,6-8,Early,S329,203,77,10,67,0,1,High,11.01,9,Happy,2.85,AR-based,High,Struggling
+P330,6-8,Developing,S330,196,32,21,11,0,1,Medium,6.62,29,Frustrated,0.57,Physical Display,High,Struggling
+P331,9-12,Developing,S331,114,11,11,0,5,1,High,23.85,34,Frustrated,2.81,VR-based,Medium,Optimal
+P332,6-8,Developing,S332,459,67,57,10,0,1,Medium,9.21,23,Frustrated,1.45,AR-based,High,Struggling
+P333,6-8,Advanced,S333,418,15,12,3,2,0,High,8.42,22,Frustrated,1.45,AR-based,High,Optimal
+P334,3-5,Early,S334,229,58,38,20,0,0,High,11.4,49,Neutral,0.76,Physical Display,High,Struggling
+P335,3-5,Developing,S335,526,91,85,6,0,0,High,17.98,43,Neutral,2.78,AR-based,Low,Optimal
+P336,6-8,Advanced,S336,63,45,42,3,3,1,High,16.41,49,Happy,0.77,Physical Display,High,Optimal
+P337,3-5,Advanced,S337,226,23,12,11,4,1,High,14.47,17,Happy,1.91,Physical Display,High,Struggling
+P338,9-12,Early,S338,115,23,21,2,2,0,Medium,11.31,15,Neutral,2.31,Physical Display,High,Struggling
+P339,6-8,Advanced,S339,181,89,78,11,3,1,Low,14.01,49,Neutral,2.21,VR-based,Low,Disengaged
+P340,9-12,Advanced,S340,327,98,64,34,4,0,High,28.63,35,Neutral,2.4,VR-based,Low,Struggling
+P341,6-8,Early,S341,494,20,15,5,5,1,Low,18.38,13,Neutral,2.8,VR-based,Low,Disengaged
+P342,9-12,Developing,S342,347,75,2,73,1,0,High,27.33,10,Neutral,1.83,AR-based,Low,Struggling
+P343,3-5,Advanced,S343,131,71,27,44,1,1,High,19.71,19,Happy,1.27,Physical Display,Low,Struggling
+P344,3-5,Advanced,S344,252,54,30,24,2,0,Low,8.66,21,Neutral,0.82,VR-based,High,Disengaged
+P345,6-8,Early,S345,201,12,9,3,0,0,Low,19.56,31,Neutral,1.17,AR-based,Medium,Disengaged
+P346,3-5,Early,S346,104,43,9,34,1,1,High,7.75,35,Neutral,1.46,Physical Display,High,Struggling
+P347,6-8,Early,S347,190,82,53,29,2,1,Medium,10.91,37,Neutral,1.09,VR-based,Low,Struggling
+P348,3-5,Advanced,S348,139,61,60,1,3,1,Medium,28.1,12,Frustrated,2.07,VR-based,Low,Struggling
+P349,9-12,Developing,S349,281,79,67,12,5,1,Medium,12.72,10,Frustrated,1.62,AR-based,Low,Struggling
+P350,6-8,Developing,S350,122,82,41,41,1,0,High,11.4,23,Neutral,0.81,VR-based,High,Struggling
+P351,3-5,Developing,S351,350,58,6,52,4,1,Medium,14.18,5,Happy,0.83,AR-based,Medium,Struggling
+P352,6-8,Advanced,S352,410,62,15,47,5,1,Low,22.9,17,Frustrated,1.09,VR-based,Medium,Disengaged
+P353,3-5,Advanced,S353,471,13,3,10,2,0,High,28.08,26,Happy,0.63,Physical Display,Medium,Struggling
+P354,3-5,Advanced,S354,161,18,18,0,3,1,High,7.49,24,Frustrated,2.9,AR-based,Low,Optimal
+P355,9-12,Advanced,S355,31,88,43,45,3,0,High,29.74,42,Frustrated,0.87,AR-based,High,Disengaged
+P356,9-12,Developing,S356,350,99,73,26,3,0,Medium,20.14,23,Happy,2.53,AR-based,Low,Struggling
+P357,3-5,Advanced,S357,206,94,74,20,2,0,Low,7.14,32,Frustrated,1.96,VR-based,High,Disengaged
+P358,6-8,Early,S358,141,54,20,34,2,1,Low,8.66,20,Frustrated,1.48,AR-based,Medium,Disengaged
+P359,3-5,Advanced,S359,535,81,31,50,5,0,Medium,13.98,15,Happy,2.87,Physical Display,Medium,Struggling
+P360,6-8,Advanced,S360,259,52,27,25,2,0,Medium,15.41,44,Happy,2.04,VR-based,High,Struggling
+P361,6-8,Advanced,S361,573,16,15,1,4,0,Low,25.36,9,Happy,1.01,Physical Display,High,Disengaged
+P362,9-12,Advanced,S362,130,30,16,14,3,1,High,6.76,35,Happy,0.67,AR-based,Low,Struggling
+P363,6-8,Developing,S363,556,99,38,61,5,1,Medium,17.03,40,Frustrated,1.37,VR-based,High,Struggling
+P364,9-12,Developing,S364,561,60,45,15,3,0,High,17.99,11,Neutral,0.54,Physical Display,Low,Optimal
+P365,9-12,Early,S365,217,29,11,18,0,0,Medium,14.76,43,Happy,2.73,AR-based,Low,Struggling
+P366,6-8,Developing,S366,386,13,7,6,0,1,Medium,6.41,23,Neutral,2.61,Physical Display,High,Struggling
+P367,3-5,Developing,S367,185,42,42,0,1,1,Medium,29.91,12,Happy,2.6,Physical Display,Low,Struggling
+P368,6-8,Developing,S368,350,27,10,17,4,1,Medium,5.85,33,Frustrated,1.52,Physical Display,Low,Struggling
+P369,6-8,Advanced,S369,139,94,19,75,0,0,High,23.95,10,Happy,2.44,AR-based,High,Struggling
+P370,3-5,Developing,S370,556,81,17,64,0,0,Medium,5.62,16,Frustrated,1.33,AR-based,Low,Struggling
+P371,3-5,Early,S371,533,92,90,2,3,0,Medium,22.59,7,Neutral,0.9,Physical Display,Low,Struggling
+P372,9-12,Early,S372,157,99,85,14,1,0,High,26.65,49,Happy,1.23,AR-based,Low,Optimal
+P373,9-12,Early,S373,56,97,85,12,5,0,Medium,11.95,33,Frustrated,2.73,Physical Display,Low,Disengaged
+P374,3-5,Advanced,S374,460,64,57,7,4,0,Low,10.52,7,Neutral,1.47,AR-based,Low,Disengaged
+P375,3-5,Advanced,S375,500,61,25,36,3,0,Medium,10.21,46,Frustrated,2.23,AR-based,Medium,Struggling
+P376,6-8,Advanced,S376,87,44,2,42,3,0,High,10.21,23,Neutral,1.31,VR-based,Low,Struggling
+P377,3-5,Advanced,S377,126,52,44,8,5,1,Low,6.86,28,Frustrated,2.78,VR-based,Low,Disengaged
+P378,3-5,Early,S378,346,53,5,48,3,1,Medium,9.39,23,Frustrated,1.67,AR-based,High,Struggling
+P379,9-12,Advanced,S379,439,68,48,20,4,0,Low,29.14,35,Happy,0.99,Physical Display,Medium,Disengaged
+P380,9-12,Advanced,S380,327,52,42,10,4,1,Low,24.45,26,Neutral,2.98,AR-based,High,Disengaged
+P381,6-8,Early,S381,505,63,63,0,4,0,Medium,11.46,5,Neutral,1.16,Physical Display,Medium,Struggling
+P382,9-12,Advanced,S382,106,62,58,4,1,0,Medium,28.45,5,Happy,1.27,VR-based,Low,Struggling
+P383,3-5,Advanced,S383,526,11,9,2,4,0,High,18.29,29,Frustrated,2.83,VR-based,Low,Optimal
+P384,6-8,Advanced,S384,513,29,19,10,5,1,Medium,22.3,29,Frustrated,1.08,AR-based,Medium,Struggling
+P385,6-8,Early,S385,544,23,6,17,3,1,Low,16.95,46,Frustrated,1.54,Physical Display,Medium,Disengaged
+P386,9-12,Advanced,S386,438,100,11,89,0,1,Low,23.28,28,Frustrated,2.67,AR-based,Low,Disengaged
+P387,6-8,Developing,S387,182,42,40,2,1,1,Medium,27.13,45,Neutral,2.73,AR-based,High,Struggling
+P388,3-5,Developing,S388,310,31,6,25,5,0,High,6.61,34,Happy,2.52,Physical Display,High,Struggling
+P389,9-12,Developing,S389,121,83,49,34,5,0,High,13.58,21,Frustrated,2.9,Physical Display,Low,Struggling
+P390,9-12,Early,S390,598,73,43,30,0,0,High,17.39,25,Neutral,2.12,AR-based,High,Struggling
+P391,9-12,Early,S391,485,57,2,55,5,0,High,29.03,28,Happy,1.51,AR-based,High,Struggling
+P392,6-8,Early,S392,92,50,16,34,0,0,Medium,7.15,34,Neutral,1.75,Physical Display,Low,Struggling
+P393,9-12,Advanced,S393,547,95,49,46,3,0,Medium,7.46,13,Happy,2.37,Physical Display,High,Struggling
+P394,9-12,Advanced,S394,211,91,84,7,2,1,Low,6.86,17,Frustrated,0.63,VR-based,High,Disengaged
+P395,6-8,Advanced,S395,519,88,7,81,4,1,Medium,15.01,22,Happy,1.82,Physical Display,High,Struggling
+P396,9-12,Advanced,S396,567,79,73,6,3,1,Low,18.51,13,Neutral,0.61,AR-based,Medium,Disengaged
+P397,9-12,Developing,S397,453,98,52,46,2,0,High,10.73,12,Frustrated,2.58,AR-based,Medium,Struggling
+P398,3-5,Developing,S398,80,13,1,12,4,1,Medium,15.12,25,Frustrated,2.6,AR-based,Medium,Struggling
+P399,6-8,Early,S399,331,66,11,55,0,0,Low,28.15,32,Happy,2.81,VR-based,High,Disengaged
+P400,3-5,Advanced,S400,332,100,22,78,2,0,Medium,5.81,24,Happy,2.4,VR-based,Low,Struggling
+P401,6-8,Advanced,S401,572,82,61,21,0,1,High,12.36,29,Happy,1.35,AR-based,Medium,Optimal
+P402,9-12,Developing,S402,568,34,25,9,3,1,Medium,14.41,43,Frustrated,0.73,VR-based,High,Struggling
+P403,3-5,Advanced,S403,544,94,58,36,1,0,Medium,20.71,8,Frustrated,2.92,Physical Display,Low,Struggling
+P404,9-12,Developing,S404,74,80,37,43,4,1,High,18.25,8,Happy,2.08,Physical Display,Medium,Struggling
+P405,6-8,Developing,S405,502,82,74,8,3,0,Medium,10.55,35,Happy,0.65,AR-based,Medium,Struggling
+P406,6-8,Developing,S406,393,98,66,32,3,0,Low,11.23,16,Neutral,1.88,Physical Display,Low,Disengaged
+P407,9-12,Advanced,S407,340,75,62,13,3,0,Medium,12.73,6,Happy,0.56,Physical Display,Low,Struggling
+P408,9-12,Early,S408,139,24,21,3,5,0,High,5.97,40,Neutral,1.8,Physical Display,Low,Optimal
+P409,9-12,Advanced,S409,456,31,23,8,5,0,Low,19.12,23,Happy,2.78,AR-based,Medium,Disengaged
+P410,9-12,Advanced,S410,427,20,17,3,4,1,Medium,22.9,15,Frustrated,0.99,AR-based,Medium,Struggling
+P411,6-8,Developing,S411,471,81,58,23,4,0,High,10.83,34,Frustrated,2.31,VR-based,High,Optimal
+P412,3-5,Advanced,S412,239,11,10,1,0,0,High,6.53,32,Neutral,2.03,AR-based,High,Optimal
+P413,9-12,Early,S413,37,54,44,10,5,0,Medium,23.78,26,Happy,0.89,VR-based,Low,Disengaged
+P414,3-5,Early,S414,490,71,29,42,2,1,Medium,27.86,5,Frustrated,2.76,VR-based,High,Struggling
+P415,3-5,Early,S415,418,48,10,38,0,1,Low,22.27,16,Happy,0.75,AR-based,Low,Disengaged
+P416,9-12,Early,S416,600,74,1,73,2,1,Medium,22.13,34,Neutral,1.11,Physical Display,High,Struggling
+P417,6-8,Early,S417,123,60,17,43,3,0,High,8.13,6,Happy,1.92,Physical Display,High,Struggling
+P418,6-8,Developing,S418,233,77,75,2,1,0,High,11.04,46,Neutral,1.28,AR-based,Medium,Optimal
+P419,3-5,Advanced,S419,565,56,26,30,0,0,Medium,21.81,48,Neutral,2.34,Physical Display,Medium,Struggling
+P420,9-12,Early,S420,292,48,27,21,4,0,High,24.4,6,Frustrated,1.29,VR-based,Low,Struggling
+P421,3-5,Early,S421,454,44,8,36,3,0,Medium,19.84,13,Happy,2.84,VR-based,Medium,Struggling
+P422,6-8,Advanced,S422,566,59,15,44,4,0,High,27.86,9,Neutral,1.71,AR-based,Medium,Struggling
+P423,9-12,Early,S423,183,55,43,12,1,0,Low,20.59,13,Frustrated,2.63,Physical Display,Medium,Disengaged
+P424,3-5,Early,S424,507,88,3,85,5,0,High,16.34,25,Frustrated,1.95,AR-based,Low,Struggling
+P425,3-5,Advanced,S425,337,12,12,0,3,0,Medium,12.51,17,Happy,2.26,AR-based,High,Struggling
+P426,9-12,Developing,S426,480,39,29,10,4,0,Medium,9.74,15,Neutral,1.39,Physical Display,Low,Struggling
+P427,3-5,Advanced,S427,115,34,32,2,5,0,Low,16.78,33,Neutral,2.32,AR-based,High,Disengaged
+P428,9-12,Advanced,S428,242,69,67,2,4,1,High,27.78,14,Neutral,1.63,AR-based,Low,Optimal
+P429,9-12,Early,S429,506,85,41,44,1,0,High,11.44,41,Frustrated,0.75,VR-based,Medium,Struggling
+P430,6-8,Early,S430,563,77,34,43,3,1,Low,15.47,48,Happy,1.09,Physical Display,High,Disengaged
+P431,9-12,Developing,S431,294,18,8,10,5,1,Medium,23.89,16,Neutral,2.94,Physical Display,Medium,Struggling
+P432,6-8,Developing,S432,546,48,24,24,2,1,High,25.62,17,Frustrated,2.79,Physical Display,High,Struggling
+P433,3-5,Advanced,S433,201,30,8,22,0,0,Low,27.02,34,Happy,0.99,VR-based,Low,Disengaged
+P434,3-5,Advanced,S434,512,20,0,20,4,0,Low,8.07,32,Neutral,1.49,Physical Display,High,Disengaged
+P435,3-5,Early,S435,576,45,3,42,1,0,Medium,26.68,17,Happy,1.28,Physical Display,Low,Struggling
+P436,3-5,Advanced,S436,529,97,47,50,5,1,Low,13.47,12,Neutral,0.86,Physical Display,High,Disengaged
+P437,3-5,Developing,S437,325,61,54,7,4,1,Low,6.45,43,Frustrated,1.09,Physical Display,Low,Disengaged
+P438,6-8,Early,S438,392,19,0,19,5,0,High,23.26,11,Happy,1.3,AR-based,Low,Struggling
+P439,3-5,Early,S439,337,61,20,41,1,1,Low,21.1,49,Neutral,2.1,Physical Display,Medium,Disengaged
+P440,6-8,Early,S440,267,61,33,28,4,0,High,25.19,10,Happy,1.24,AR-based,Medium,Struggling
+P441,9-12,Developing,S441,264,27,27,0,2,0,Medium,7.55,37,Frustrated,2.09,VR-based,Medium,Struggling
+P442,9-12,Developing,S442,453,63,38,25,5,0,Medium,10.97,37,Neutral,0.76,AR-based,Low,Struggling
+P443,6-8,Developing,S443,184,84,35,49,4,1,High,5.42,16,Frustrated,0.9,VR-based,Low,Struggling
+P444,9-12,Advanced,S444,212,74,4,70,0,0,High,23.84,19,Frustrated,0.77,AR-based,High,Struggling
+P445,9-12,Early,S445,473,66,19,47,5,0,Low,27.49,42,Frustrated,1.55,AR-based,High,Disengaged
+P446,3-5,Early,S446,259,14,3,11,1,1,High,20.6,40,Happy,1.43,Physical Display,Low,Struggling
+P447,9-12,Developing,S447,69,91,55,36,4,0,Medium,7.56,11,Neutral,2.04,AR-based,High,Struggling
+P448,6-8,Early,S448,359,38,18,20,0,0,High,9.2,37,Happy,2.86,VR-based,High,Struggling
+P449,3-5,Early,S449,148,96,83,13,2,0,Low,17.18,34,Neutral,0.55,Physical Display,Low,Disengaged
+P450,6-8,Early,S450,77,93,55,38,2,1,Medium,8.43,5,Happy,2.6,VR-based,High,Struggling
+P451,6-8,Early,S451,177,39,27,12,2,0,Low,7.53,41,Neutral,2.19,Physical Display,Medium,Disengaged
+P452,6-8,Early,S452,359,91,70,21,2,1,High,7.52,13,Neutral,1.65,Physical Display,Medium,Optimal
+P453,6-8,Advanced,S453,177,63,28,35,0,0,Medium,26.3,11,Frustrated,1.98,Physical Display,Medium,Struggling
+P454,3-5,Early,S454,582,81,13,68,4,0,Medium,12.11,47,Neutral,1.73,AR-based,Low,Struggling
+P455,9-12,Developing,S455,414,93,24,69,5,0,High,11.89,32,Frustrated,0.66,Physical Display,Low,Struggling
+P456,6-8,Early,S456,423,20,1,19,3,1,Low,19.94,5,Neutral,1.84,VR-based,Medium,Disengaged
+P457,6-8,Early,S457,260,16,16,0,3,0,High,10.45,35,Happy,2.48,Physical Display,Low,Optimal
+P458,9-12,Early,S458,133,59,31,28,3,0,Medium,28.21,17,Happy,1.43,AR-based,High,Struggling
+P459,6-8,Early,S459,523,34,26,8,4,0,Medium,8.36,25,Neutral,2.25,Physical Display,High,Struggling
+P460,6-8,Developing,S460,418,42,1,41,2,0,High,24.57,50,Neutral,0.58,VR-based,High,Struggling
+P461,3-5,Advanced,S461,497,53,21,32,1,1,High,26.65,28,Neutral,1.42,AR-based,Medium,Struggling
+P462,3-5,Advanced,S462,168,42,41,1,3,0,Medium,20.92,30,Happy,0.7,VR-based,Low,Struggling
+P463,3-5,Developing,S463,337,85,64,21,4,0,Low,10.59,46,Frustrated,0.63,VR-based,High,Disengaged
+P464,3-5,Developing,S464,152,92,38,54,1,1,Medium,11.87,30,Happy,1.09,AR-based,High,Struggling
+P465,3-5,Early,S465,383,50,12,38,4,0,High,23.02,14,Frustrated,0.9,Physical Display,Medium,Struggling
+P466,3-5,Advanced,S466,491,89,2,87,3,1,Medium,13.82,19,Frustrated,1.09,VR-based,High,Struggling
+P467,9-12,Developing,S467,284,18,13,5,1,0,Medium,19.33,21,Neutral,2.83,Physical Display,Medium,Struggling
+P468,6-8,Developing,S468,274,54,22,32,5,1,High,22.87,20,Happy,0.56,VR-based,High,Struggling
+P469,9-12,Advanced,S469,426,58,22,36,1,0,Medium,16.28,41,Neutral,1.88,VR-based,High,Struggling
+P470,3-5,Developing,S470,331,54,19,35,5,0,Low,25.98,42,Frustrated,1.93,VR-based,Medium,Disengaged
+P471,3-5,Developing,S471,470,10,2,8,0,1,High,28.96,22,Frustrated,2.78,Physical Display,High,Struggling
+P472,9-12,Early,S472,107,54,5,49,2,1,High,15.69,33,Happy,2.77,VR-based,Low,Struggling
+P473,3-5,Developing,S473,464,52,42,10,4,1,High,6.22,22,Frustrated,2.63,Physical Display,Low,Optimal
+P474,9-12,Advanced,S474,58,46,11,35,1,1,Medium,20.83,15,Happy,2.0,AR-based,Medium,Disengaged
+P475,6-8,Developing,S475,222,74,10,64,5,1,Medium,29.11,17,Frustrated,1.59,Physical Display,High,Struggling
+P476,9-12,Developing,S476,541,98,4,94,3,1,High,22.04,12,Happy,2.85,VR-based,High,Struggling
+P477,3-5,Advanced,S477,65,46,14,32,1,0,High,14.61,34,Happy,2.88,Physical Display,Low,Struggling
+P478,3-5,Advanced,S478,297,79,78,1,3,0,High,9.83,19,Happy,1.4,Physical Display,Medium,Optimal
+P479,6-8,Developing,S479,490,17,3,14,0,0,Medium,7.07,42,Happy,2.92,Physical Display,Medium,Struggling
+P480,3-5,Early,S480,543,51,36,15,1,0,Low,24.67,27,Neutral,1.8,VR-based,Medium,Disengaged
+P481,6-8,Advanced,S481,117,36,6,30,2,0,Medium,9.67,20,Happy,0.86,Physical Display,High,Struggling
+P482,6-8,Early,S482,580,93,69,24,5,1,High,18.94,6,Neutral,0.65,VR-based,High,Optimal
+P483,9-12,Developing,S483,478,50,24,26,2,0,Medium,28.81,37,Neutral,2.26,Physical Display,High,Struggling
+P484,3-5,Advanced,S484,343,18,8,10,5,0,Medium,15.19,33,Frustrated,0.61,AR-based,Medium,Struggling
+P485,3-5,Developing,S485,550,37,24,13,1,0,High,6.12,34,Neutral,1.37,Physical Display,Medium,Struggling
+P486,9-12,Advanced,S486,337,59,53,6,5,1,High,17.46,50,Happy,1.19,VR-based,High,Optimal
+P487,3-5,Early,S487,191,19,7,12,3,1,Medium,22.96,6,Frustrated,2.69,Physical Display,Medium,Struggling
+P488,9-12,Advanced,S488,282,35,0,35,4,1,Low,20.64,34,Frustrated,1.89,AR-based,Medium,Disengaged
+P489,6-8,Developing,S489,46,73,36,37,2,0,Medium,13.58,42,Neutral,1.38,Physical Display,Low,Disengaged
+P490,6-8,Developing,S490,404,13,1,12,1,1,High,19.6,9,Happy,2.17,VR-based,High,Struggling
+P491,3-5,Early,S491,580,37,13,24,2,1,Medium,26.56,33,Neutral,2.08,AR-based,Medium,Struggling
+P492,3-5,Early,S492,530,71,46,25,3,0,High,23.31,7,Frustrated,2.59,AR-based,Low,Struggling
+P493,3-5,Early,S493,164,90,3,87,2,1,Low,29.52,9,Happy,2.38,VR-based,Low,Disengaged
+P494,9-12,Advanced,S494,436,54,45,9,5,0,Medium,14.45,19,Frustrated,1.93,VR-based,High,Struggling
+P495,6-8,Developing,S495,189,22,2,20,2,0,Low,29.21,15,Frustrated,2.17,AR-based,Low,Disengaged
+P496,6-8,Developing,S496,411,15,12,3,0,1,High,15.09,33,Neutral,1.88,VR-based,Medium,Optimal
+P497,6-8,Advanced,S497,427,24,20,4,0,1,High,27.08,27,Frustrated,2.51,Physical Display,High,Optimal
+P498,9-12,Developing,S498,117,56,44,12,2,1,High,17.09,47,Neutral,2.03,VR-based,High,Optimal
+P499,9-12,Early,S499,349,78,78,0,1,0,High,6.6,12,Frustrated,2.33,Physical Display,Low,Optimal
+P500,9-12,Early,S500,63,25,15,10,4,0,High,7.07,38,Frustrated,0.69,AR-based,Low,Struggling
+P501,9-12,Developing,S501,181,78,62,16,0,1,Low,29.39,14,Frustrated,1.14,Physical Display,Low,Disengaged
+P502,6-8,Advanced,S502,196,72,16,56,3,0,High,13.64,18,Happy,1.03,Physical Display,High,Struggling
+P503,6-8,Early,S503,517,44,14,30,4,0,Medium,17.09,33,Frustrated,1.42,VR-based,Low,Struggling
+P504,9-12,Early,S504,584,76,44,32,5,1,High,15.42,9,Neutral,1.23,Physical Display,Medium,Struggling
+P505,6-8,Early,S505,237,29,4,25,3,1,Medium,25.79,15,Neutral,1.73,VR-based,Low,Struggling
+P506,3-5,Early,S506,166,63,23,40,5,1,Medium,11.5,39,Happy,2.8,AR-based,Medium,Struggling
+P507,9-12,Developing,S507,254,42,21,21,3,1,Medium,15.37,17,Happy,0.74,AR-based,Low,Struggling
+P508,3-5,Early,S508,415,87,27,60,3,0,Medium,26.66,47,Neutral,0.71,VR-based,Low,Struggling
+P509,3-5,Advanced,S509,437,38,14,24,0,1,High,17.54,43,Happy,1.93,AR-based,Low,Struggling
+P510,9-12,Advanced,S510,248,83,72,11,5,1,Medium,7.17,38,Happy,0.69,VR-based,Low,Struggling
+P511,9-12,Advanced,S511,257,42,6,36,0,1,High,7.87,34,Frustrated,1.44,AR-based,Medium,Struggling
+P512,6-8,Developing,S512,41,85,85,0,5,1,Medium,26.54,5,Frustrated,2.33,VR-based,Low,Disengaged
+P513,3-5,Advanced,S513,49,41,0,41,4,1,High,13.22,23,Happy,0.95,AR-based,Low,Disengaged
+P514,6-8,Developing,S514,447,42,28,14,1,0,Medium,13.83,38,Frustrated,1.72,VR-based,Low,Struggling
+P515,9-12,Developing,S515,537,47,44,3,1,0,Low,21.49,12,Neutral,0.78,VR-based,High,Disengaged
+P516,6-8,Early,S516,344,82,77,5,4,0,Medium,13.7,25,Happy,2.93,VR-based,High,Struggling
+P517,9-12,Developing,S517,556,52,21,31,0,1,Medium,18.03,18,Frustrated,1.14,Physical Display,Low,Struggling
+P518,9-12,Advanced,S518,456,68,49,19,2,1,Medium,27.63,35,Neutral,0.85,AR-based,Medium,Struggling
+P519,3-5,Early,S519,153,67,51,16,2,1,Medium,27.87,11,Neutral,0.95,AR-based,Medium,Struggling
+P520,9-12,Early,S520,508,87,31,56,5,0,Medium,18.76,18,Frustrated,1.44,AR-based,High,Struggling
+P521,9-12,Early,S521,569,39,15,24,3,1,High,8.46,40,Frustrated,1.1,Physical Display,Medium,Struggling
+P522,6-8,Developing,S522,316,93,36,57,2,1,High,12.87,20,Happy,2.41,VR-based,High,Struggling
+P523,3-5,Developing,S523,324,44,35,9,5,1,High,26.44,25,Happy,2.69,VR-based,Low,Optimal
+P524,9-12,Early,S524,598,45,43,2,0,0,Medium,7.05,39,Neutral,2.63,Physical Display,Medium,Struggling
+P525,9-12,Developing,S525,79,81,42,39,2,1,High,24.96,36,Frustrated,1.09,AR-based,High,Struggling
+P526,6-8,Developing,S526,480,81,76,5,1,0,High,23.76,47,Happy,0.64,Physical Display,High,Optimal
+P527,6-8,Advanced,S527,286,21,11,10,0,0,Low,22.4,44,Frustrated,2.33,AR-based,Low,Disengaged
+P528,3-5,Early,S528,350,98,67,31,1,0,Medium,25.22,31,Happy,2.01,AR-based,Low,Struggling
+P529,3-5,Advanced,S529,503,49,17,32,2,1,Medium,27.83,13,Happy,0.64,Physical Display,Low,Struggling
+P530,6-8,Advanced,S530,401,50,15,35,3,1,Low,26.31,49,Neutral,1.04,AR-based,Medium,Disengaged
+P531,3-5,Early,S531,363,93,90,3,0,0,Low,27.41,24,Frustrated,1.17,Physical Display,Medium,Disengaged
+P532,6-8,Developing,S532,471,16,9,7,3,1,Low,9.22,28,Frustrated,2.48,VR-based,High,Disengaged
+P533,3-5,Early,S533,266,92,69,23,2,0,Medium,22.29,37,Neutral,0.66,Physical Display,Low,Struggling
+P534,3-5,Developing,S534,467,11,2,9,0,1,Medium,22.8,18,Happy,1.81,VR-based,Low,Struggling
+P535,9-12,Advanced,S535,401,64,29,35,2,0,High,14.5,50,Happy,2.96,VR-based,High,Struggling
+P536,9-12,Developing,S536,141,64,64,0,0,1,High,12.78,17,Happy,2.92,VR-based,Medium,Optimal
+P537,3-5,Advanced,S537,508,52,42,10,4,0,High,13.32,19,Happy,2.42,AR-based,High,Optimal
+P538,6-8,Advanced,S538,92,18,7,11,0,1,Medium,17.96,40,Happy,0.92,VR-based,Low,Struggling
+P539,3-5,Developing,S539,246,20,16,4,3,1,Low,10.12,36,Frustrated,1.04,AR-based,High,Disengaged
+P540,9-12,Advanced,S540,291,57,49,8,1,1,Medium,9.49,16,Neutral,1.24,Physical Display,Low,Struggling
+P541,6-8,Developing,S541,133,86,81,5,0,1,High,9.13,44,Frustrated,2.87,Physical Display,High,Optimal
+P542,3-5,Advanced,S542,412,25,15,10,0,0,Medium,13.19,27,Neutral,0.72,AR-based,Medium,Struggling
+P543,9-12,Advanced,S543,131,18,17,1,4,1,Low,22.72,6,Frustrated,2.74,AR-based,High,Disengaged
+P544,9-12,Advanced,S544,114,56,11,45,3,0,High,15.7,29,Frustrated,0.92,VR-based,Low,Struggling
+P545,6-8,Early,S545,65,70,36,34,4,1,Low,23.55,19,Frustrated,2.45,VR-based,Medium,Disengaged
+P546,9-12,Early,S546,381,27,2,25,0,0,High,22.65,26,Frustrated,1.91,AR-based,Low,Struggling
+P547,6-8,Early,S547,43,99,3,96,4,1,Medium,6.88,6,Happy,2.07,AR-based,Medium,Disengaged
+P548,6-8,Advanced,S548,586,73,13,60,3,0,High,13.75,41,Neutral,2.51,AR-based,Medium,Struggling
+P549,9-12,Early,S549,184,13,10,3,5,1,High,18.33,12,Frustrated,0.81,Physical Display,Medium,Optimal
+P550,3-5,Early,S550,461,34,22,12,2,0,High,25.06,13,Neutral,1.65,AR-based,High,Struggling
+P551,6-8,Developing,S551,176,84,10,74,4,0,Medium,21.13,9,Neutral,2.34,Physical Display,Low,Struggling
+P552,9-12,Developing,S552,100,60,15,45,0,0,High,11.24,43,Frustrated,0.96,Physical Display,High,Struggling
+P553,3-5,Advanced,S553,465,73,48,25,3,0,Medium,22.92,25,Frustrated,2.42,VR-based,Medium,Struggling
+P554,3-5,Developing,S554,528,59,53,6,3,0,High,6.28,8,Neutral,1.63,Physical Display,Medium,Optimal
+P555,9-12,Developing,S555,406,77,52,25,5,0,High,17.85,14,Frustrated,2.51,Physical Display,Low,Struggling
+P556,6-8,Early,S556,155,58,56,2,3,0,Medium,5.24,11,Neutral,2.17,VR-based,Medium,Struggling
+P557,6-8,Advanced,S557,306,61,45,16,3,1,High,22.95,10,Frustrated,2.92,Physical Display,High,Optimal
+P558,6-8,Developing,S558,475,31,3,28,4,0,High,16.72,10,Happy,1.09,VR-based,Low,Struggling
+P559,3-5,Developing,S559,61,74,15,59,2,0,High,26.79,40,Neutral,0.95,AR-based,High,Struggling
+P560,6-8,Advanced,S560,138,51,4,47,1,0,High,18.76,35,Frustrated,2.48,Physical Display,Low,Struggling
+P561,6-8,Early,S561,559,96,94,2,0,1,High,21.11,37,Happy,1.35,AR-based,Medium,Optimal
+P562,3-5,Advanced,S562,268,74,9,65,5,0,Low,22.48,28,Happy,0.51,Physical Display,Low,Disengaged
+P563,3-5,Advanced,S563,572,80,78,2,0,1,High,10.7,43,Happy,0.61,VR-based,Medium,Optimal
+P564,3-5,Advanced,S564,372,27,4,23,0,1,Low,27.66,20,Frustrated,2.77,VR-based,Medium,Disengaged
+P565,9-12,Advanced,S565,60,42,3,39,1,0,High,18.22,18,Happy,0.83,VR-based,Low,Struggling
+P566,3-5,Advanced,S566,357,93,7,86,0,0,High,28.25,28,Happy,0.7,VR-based,Medium,Struggling
+P567,6-8,Developing,S567,321,52,23,29,1,1,Medium,9.12,39,Frustrated,1.73,AR-based,Medium,Struggling
+P568,6-8,Advanced,S568,289,28,7,21,1,0,Medium,29.01,33,Neutral,2.82,Physical Display,Low,Struggling
+P569,6-8,Developing,S569,411,62,48,14,2,1,Medium,17.3,16,Happy,0.62,VR-based,High,Struggling
+P570,3-5,Advanced,S570,290,88,16,72,1,0,Medium,15.91,18,Neutral,2.71,AR-based,High,Struggling
+P571,3-5,Developing,S571,53,48,27,21,4,1,Medium,18.63,38,Neutral,1.51,Physical Display,High,Disengaged
+P572,3-5,Developing,S572,533,85,17,68,0,0,Medium,7.97,27,Frustrated,1.35,Physical Display,Medium,Struggling
+P573,3-5,Advanced,S573,176,24,16,8,5,0,High,25.59,10,Frustrated,1.5,AR-based,Low,Struggling
+P574,6-8,Advanced,S574,42,41,32,9,5,1,Low,26.38,33,Neutral,1.79,Physical Display,Low,Disengaged
+P575,6-8,Advanced,S575,154,37,24,13,4,0,Low,10.71,35,Frustrated,0.72,VR-based,Medium,Disengaged
+P576,6-8,Developing,S576,293,30,3,27,1,1,Medium,8.1,12,Happy,1.82,Physical Display,High,Struggling
+P577,6-8,Early,S577,323,45,20,25,0,1,High,29.17,10,Happy,0.68,Physical Display,Medium,Struggling
+P578,3-5,Early,S578,345,94,19,75,0,0,Medium,5.05,11,Frustrated,2.34,VR-based,High,Struggling
+P579,6-8,Advanced,S579,255,11,4,7,4,0,High,24.3,7,Frustrated,1.31,Physical Display,High,Struggling
+P580,9-12,Developing,S580,528,67,63,4,0,0,High,16.54,31,Happy,1.2,VR-based,Medium,Optimal
+P581,9-12,Early,S581,463,18,1,17,5,1,High,20.16,40,Frustrated,3.0,VR-based,High,Struggling
+P582,3-5,Early,S582,83,97,28,69,2,0,High,9.22,37,Frustrated,1.47,VR-based,Medium,Struggling
+P583,6-8,Early,S583,452,42,41,1,5,0,High,7.56,40,Frustrated,1.98,AR-based,Low,Optimal
+P584,9-12,Advanced,S584,268,45,35,10,1,0,Medium,27.81,32,Neutral,2.74,VR-based,High,Struggling
+P585,9-12,Advanced,S585,133,74,50,24,0,0,Low,26.25,50,Neutral,2.29,Physical Display,High,Disengaged
+P586,3-5,Developing,S586,256,19,2,17,5,0,Medium,9.54,5,Frustrated,1.88,VR-based,Medium,Struggling
+P587,9-12,Early,S587,419,11,8,3,4,1,Medium,7.24,32,Frustrated,1.98,VR-based,Medium,Struggling
+P588,6-8,Developing,S588,152,69,22,47,0,1,Medium,16.07,49,Frustrated,2.5,AR-based,Low,Struggling
+P589,6-8,Advanced,S589,137,21,13,8,1,0,Low,28.49,23,Happy,0.81,AR-based,Low,Disengaged
+P590,9-12,Developing,S590,267,74,42,32,4,0,High,16.43,13,Happy,2.96,AR-based,High,Struggling
+P591,3-5,Developing,S591,70,17,7,10,0,0,Medium,29.69,43,Frustrated,1.35,Physical Display,Medium,Struggling
+P592,9-12,Early,S592,82,35,35,0,2,1,Low,28.81,28,Neutral,1.77,AR-based,Medium,Disengaged
+P593,6-8,Developing,S593,554,20,2,18,0,1,Medium,5.81,47,Neutral,0.83,AR-based,High,Struggling
+P594,9-12,Early,S594,392,32,26,6,4,0,Low,20.72,14,Neutral,2.02,AR-based,High,Disengaged
+P595,3-5,Early,S595,313,88,66,22,1,0,High,12.22,36,Frustrated,2.9,VR-based,Medium,Optimal
+P596,3-5,Developing,S596,345,44,38,6,2,0,High,9.89,30,Frustrated,1.67,AR-based,Low,Optimal
+P597,9-12,Advanced,S597,184,44,7,37,1,0,Low,26.47,28,Frustrated,2.37,AR-based,High,Disengaged
+P598,3-5,Developing,S598,199,76,26,50,1,0,Low,7.37,46,Neutral,1.33,VR-based,Medium,Disengaged
+P599,6-8,Advanced,S599,490,74,8,66,1,1,High,24.34,13,Neutral,1.51,AR-based,Low,Struggling
+P600,3-5,Developing,S600,148,58,8,50,0,0,High,9.02,41,Neutral,2.66,Physical Display,High,Struggling
+P601,9-12,Early,S601,334,35,30,5,2,1,Low,9.1,25,Frustrated,0.92,VR-based,Low,Disengaged
+P602,6-8,Advanced,S602,207,10,0,10,3,0,Medium,25.46,9,Neutral,2.38,Physical Display,Medium,Struggling
+P603,3-5,Advanced,S603,434,36,22,14,3,1,Medium,10.59,32,Happy,2.15,AR-based,High,Struggling
+P604,6-8,Advanced,S604,84,32,29,3,0,1,Medium,10.11,12,Happy,2.17,AR-based,High,Struggling
+P605,9-12,Developing,S605,441,90,77,13,4,0,Medium,22.94,23,Neutral,2.68,Physical Display,High,Struggling
+P606,9-12,Early,S606,210,57,14,43,0,0,High,12.86,26,Frustrated,2.06,AR-based,Low,Struggling
+P607,3-5,Developing,S607,239,79,62,17,3,1,Low,20.0,5,Neutral,1.0,VR-based,Medium,Disengaged
+P608,3-5,Advanced,S608,336,59,18,41,2,1,Medium,29.8,9,Happy,0.9,VR-based,Low,Struggling
+P609,9-12,Advanced,S609,584,98,18,80,3,0,Medium,29.33,37,Frustrated,1.45,Physical Display,Medium,Struggling
+P610,6-8,Developing,S610,182,55,34,21,1,1,Medium,21.38,11,Neutral,2.81,VR-based,High,Struggling
+P611,9-12,Developing,S611,157,19,3,16,1,1,High,24.91,5,Frustrated,0.67,VR-based,Medium,Struggling
+P612,3-5,Developing,S612,153,74,9,65,0,0,High,24.78,31,Frustrated,0.67,VR-based,Low,Struggling
+P613,9-12,Early,S613,120,37,7,30,1,1,Medium,29.85,18,Frustrated,1.39,VR-based,High,Struggling
+P614,6-8,Early,S614,358,45,28,17,4,0,High,24.07,26,Happy,1.15,AR-based,Medium,Struggling
+P615,6-8,Advanced,S615,379,85,53,32,2,1,Medium,29.54,16,Neutral,1.39,VR-based,Low,Struggling
+P616,6-8,Developing,S616,334,11,9,2,4,1,Medium,22.01,36,Happy,2.1,Physical Display,Low,Struggling
+P617,3-5,Advanced,S617,583,73,47,26,5,0,Medium,27.86,5,Neutral,2.81,Physical Display,High,Struggling
+P618,6-8,Advanced,S618,388,29,21,8,4,0,Medium,5.03,39,Neutral,1.13,Physical Display,High,Struggling
+P619,9-12,Developing,S619,434,84,54,30,3,1,High,29.28,23,Frustrated,2.97,Physical Display,High,Struggling
+P620,9-12,Advanced,S620,272,75,1,74,4,0,Low,14.55,8,Frustrated,0.66,Physical Display,High,Disengaged
+P621,9-12,Developing,S621,72,91,71,20,2,0,High,8.2,30,Happy,1.99,AR-based,Low,Optimal
+P622,9-12,Early,S622,442,70,57,13,4,0,Low,12.41,33,Neutral,2.79,VR-based,High,Disengaged
+P623,9-12,Developing,S623,262,85,42,43,5,1,High,27.5,40,Frustrated,0.75,AR-based,Medium,Struggling
+P624,9-12,Developing,S624,284,51,18,33,3,0,Low,29.81,12,Frustrated,0.6,AR-based,High,Disengaged
+P625,6-8,Early,S625,499,51,39,12,1,1,High,23.03,39,Frustrated,0.69,AR-based,Medium,Optimal
+P626,6-8,Advanced,S626,62,76,53,23,5,1,High,17.12,11,Happy,2.89,Physical Display,Low,Struggling
+P627,3-5,Early,S627,513,37,33,4,5,1,Low,16.06,24,Neutral,0.52,Physical Display,High,Disengaged
+P628,6-8,Developing,S628,527,47,24,23,3,0,Medium,13.29,15,Frustrated,2.01,VR-based,Medium,Struggling
+P629,6-8,Developing,S629,194,68,60,8,5,1,Medium,28.03,14,Frustrated,1.28,VR-based,High,Struggling
+P630,3-5,Early,S630,198,91,40,51,0,1,Medium,25.28,39,Neutral,0.7,VR-based,Low,Struggling
+P631,9-12,Early,S631,485,76,20,56,2,1,Medium,18.91,30,Frustrated,2.13,AR-based,Low,Struggling
+P632,6-8,Early,S632,45,70,32,38,0,1,High,10.88,17,Happy,1.86,Physical Display,High,Disengaged
+P633,6-8,Early,S633,316,50,49,1,1,0,High,26.18,7,Frustrated,1.38,AR-based,Medium,Optimal
+P634,9-12,Advanced,S634,336,46,41,5,4,0,Medium,25.09,18,Happy,1.33,Physical Display,High,Struggling
+P635,3-5,Early,S635,40,20,13,7,1,0,Medium,22.27,8,Frustrated,1.85,AR-based,Medium,Disengaged
+P636,6-8,Developing,S636,363,52,49,3,4,1,Low,19.11,32,Neutral,3.0,VR-based,High,Disengaged
+P637,9-12,Early,S637,320,89,50,39,5,0,Medium,25.85,46,Frustrated,1.39,AR-based,High,Struggling
+P638,9-12,Developing,S638,452,39,28,11,2,1,Medium,26.83,10,Frustrated,0.55,AR-based,Medium,Struggling
+P639,9-12,Early,S639,120,59,41,18,4,1,Medium,21.6,18,Neutral,1.24,VR-based,Medium,Struggling
+P640,3-5,Early,S640,580,96,96,0,5,0,Medium,16.74,5,Happy,1.38,VR-based,Medium,Struggling
+P641,9-12,Developing,S641,153,26,11,15,0,0,High,29.51,37,Neutral,1.61,VR-based,Medium,Struggling
+P642,3-5,Advanced,S642,98,89,17,72,1,1,Medium,10.34,24,Happy,1.28,Physical Display,High,Struggling
+P643,6-8,Early,S643,496,41,25,16,3,1,Medium,28.38,40,Happy,2.28,VR-based,High,Struggling
+P644,3-5,Developing,S644,306,18,15,3,0,0,High,11.09,44,Neutral,2.65,Physical Display,High,Optimal
+P645,3-5,Developing,S645,600,68,44,24,2,0,Medium,27.98,40,Frustrated,1.99,VR-based,High,Struggling
+P646,6-8,Advanced,S646,178,56,9,47,3,1,Medium,16.47,11,Neutral,1.2,Physical Display,High,Struggling
+P647,3-5,Developing,S647,592,52,33,19,5,1,Medium,15.68,37,Frustrated,2.64,VR-based,High,Struggling
+P648,3-5,Early,S648,441,39,21,18,4,0,Medium,28.9,35,Frustrated,2.54,Physical Display,Medium,Struggling
+P649,9-12,Advanced,S649,240,12,2,10,1,0,High,23.31,37,Neutral,1.31,VR-based,Medium,Struggling
+P650,6-8,Developing,S650,205,85,16,69,3,1,Medium,29.7,24,Neutral,0.95,VR-based,High,Struggling
+P651,3-5,Advanced,S651,254,81,16,65,5,0,High,19.97,37,Happy,0.71,AR-based,Low,Struggling
+P652,9-12,Developing,S652,381,97,82,15,1,0,High,13.54,9,Neutral,2.0,Physical Display,Medium,Optimal
+P653,3-5,Early,S653,573,38,13,25,1,1,Medium,10.71,8,Frustrated,1.51,VR-based,Low,Struggling
+P654,6-8,Early,S654,444,52,20,32,4,0,Medium,22.48,25,Frustrated,2.93,Physical Display,Medium,Struggling
+P655,9-12,Early,S655,368,66,46,20,2,1,High,22.42,46,Neutral,2.62,AR-based,Low,Struggling
+P656,9-12,Advanced,S656,489,22,13,9,0,1,High,13.93,12,Neutral,0.73,VR-based,Low,Struggling
+P657,3-5,Advanced,S657,315,20,6,14,0,0,High,9.9,9,Frustrated,2.3,Physical Display,Low,Struggling
+P658,6-8,Advanced,S658,360,44,26,18,5,1,High,5.67,31,Frustrated,2.24,VR-based,High,Struggling
+P659,3-5,Advanced,S659,272,50,20,30,5,0,High,29.86,40,Frustrated,1.61,Physical Display,Medium,Struggling
+P660,3-5,Developing,S660,521,72,1,71,1,1,High,28.27,10,Frustrated,1.91,Physical Display,Medium,Struggling
+P661,9-12,Advanced,S661,446,79,38,41,4,1,High,10.69,40,Neutral,2.72,AR-based,High,Struggling
+P662,3-5,Early,S662,448,34,29,5,0,0,High,9.77,37,Neutral,1.21,Physical Display,Medium,Optimal
+P663,3-5,Advanced,S663,465,10,0,10,5,0,High,16.22,24,Happy,0.79,AR-based,High,Struggling
+P664,3-5,Early,S664,595,79,1,78,2,1,Medium,11.83,10,Happy,0.52,VR-based,Medium,Struggling
+P665,3-5,Early,S665,446,46,32,14,5,0,Low,25.34,16,Frustrated,0.54,AR-based,Medium,Disengaged
+P666,9-12,Advanced,S666,37,97,30,67,1,0,Low,6.59,12,Neutral,0.82,AR-based,High,Disengaged
+P667,6-8,Developing,S667,300,38,0,38,4,0,High,29.62,15,Frustrated,1.4,VR-based,High,Struggling
+P668,9-12,Advanced,S668,460,85,34,51,4,1,Medium,19.22,34,Happy,0.84,AR-based,High,Struggling
+P669,3-5,Advanced,S669,396,14,8,6,0,0,Low,12.56,12,Neutral,1.77,AR-based,Low,Disengaged
+P670,6-8,Developing,S670,431,77,40,37,1,1,Low,17.34,23,Frustrated,0.98,AR-based,Low,Disengaged
+P671,3-5,Advanced,S671,204,13,6,7,1,1,High,10.62,7,Happy,2.27,AR-based,Low,Struggling
+P672,9-12,Developing,S672,149,92,43,49,3,1,Low,21.09,35,Frustrated,1.7,Physical Display,Medium,Disengaged
+P673,6-8,Advanced,S673,593,43,25,18,3,1,High,8.55,42,Frustrated,2.78,AR-based,Medium,Struggling
+P674,6-8,Early,S674,484,48,13,35,2,0,Low,26.31,12,Frustrated,1.48,VR-based,High,Disengaged
+P675,6-8,Advanced,S675,322,33,20,13,5,0,Medium,8.57,20,Frustrated,1.96,AR-based,Low,Struggling
+P676,6-8,Developing,S676,33,90,48,42,0,0,High,19.71,35,Happy,1.71,Physical Display,High,Disengaged
+P677,6-8,Advanced,S677,378,25,17,8,0,1,High,9.57,40,Happy,1.21,AR-based,Low,Struggling
+P678,9-12,Early,S678,358,61,25,36,1,1,High,19.6,48,Neutral,2.72,Physical Display,High,Struggling
+P679,3-5,Early,S679,431,20,19,1,2,0,Medium,28.67,48,Neutral,2.39,Physical Display,High,Struggling
+P680,6-8,Early,S680,482,59,50,9,4,1,Medium,10.5,18,Happy,2.88,VR-based,Low,Struggling
+P681,6-8,Advanced,S681,395,69,22,47,0,0,High,8.63,16,Neutral,2.36,AR-based,High,Struggling
+P682,3-5,Early,S682,459,72,25,47,4,0,Medium,24.74,36,Neutral,2.37,Physical Display,High,Struggling
+P683,6-8,Developing,S683,310,94,24,70,4,0,Medium,23.89,34,Happy,2.22,VR-based,High,Struggling
+P684,6-8,Developing,S684,590,19,14,5,3,1,Medium,21.14,33,Frustrated,2.93,Physical Display,Low,Struggling
+P685,6-8,Advanced,S685,276,39,13,26,3,1,Medium,17.6,23,Frustrated,0.68,AR-based,Low,Struggling
+P686,3-5,Advanced,S686,66,74,25,49,5,0,Medium,24.18,13,Happy,2.24,AR-based,Medium,Struggling
+P687,9-12,Advanced,S687,174,68,50,18,1,1,Low,10.42,27,Happy,0.62,VR-based,Low,Disengaged
+P688,3-5,Early,S688,429,80,43,37,1,0,High,12.96,41,Frustrated,0.67,AR-based,High,Struggling
+P689,9-12,Developing,S689,100,59,25,34,5,1,High,16.81,47,Happy,1.56,AR-based,Medium,Struggling
+P690,9-12,Advanced,S690,148,58,26,32,5,1,High,17.15,20,Frustrated,2.59,VR-based,High,Struggling
+P691,9-12,Early,S691,40,97,65,32,1,1,High,27.63,28,Happy,2.68,Physical Display,Medium,Disengaged
+P692,6-8,Developing,S692,219,48,35,13,1,1,Medium,28.8,26,Frustrated,2.0,VR-based,High,Struggling
+P693,9-12,Advanced,S693,374,94,59,35,1,0,Medium,10.97,19,Neutral,2.86,VR-based,Low,Struggling
+P694,3-5,Early,S694,201,87,59,28,4,0,High,12.24,29,Happy,1.82,Physical Display,Medium,Struggling
+P695,6-8,Advanced,S695,124,57,48,9,1,1,High,29.72,41,Neutral,2.85,VR-based,Low,Optimal
+P696,6-8,Advanced,S696,141,97,97,0,2,1,Medium,24.5,35,Neutral,2.38,AR-based,High,Struggling
+P697,6-8,Advanced,S697,172,76,46,30,4,1,Medium,14.43,44,Happy,0.68,Physical Display,High,Struggling
+P698,6-8,Advanced,S698,164,16,14,2,1,0,High,24.91,20,Neutral,0.92,Physical Display,High,Optimal
+P699,3-5,Advanced,S699,553,13,10,3,2,0,Medium,19.53,38,Neutral,1.12,AR-based,Medium,Struggling
+P700,3-5,Developing,S700,80,27,2,25,5,1,Low,9.74,42,Happy,2.75,Physical Display,Low,Disengaged
+P701,9-12,Advanced,S701,487,81,78,3,4,1,Medium,8.51,37,Neutral,2.1,Physical Display,Medium,Struggling
+P702,3-5,Early,S702,386,71,59,12,3,1,High,26.74,12,Neutral,1.52,AR-based,Medium,Optimal
+P703,6-8,Advanced,S703,231,34,3,31,5,1,Low,5.67,43,Neutral,2.45,AR-based,Low,Disengaged
+P704,9-12,Developing,S704,571,70,15,55,5,1,Medium,22.45,10,Happy,0.53,VR-based,Medium,Struggling
+P705,6-8,Advanced,S705,259,62,6,56,1,0,High,10.41,50,Frustrated,1.47,VR-based,High,Struggling
+P706,3-5,Advanced,S706,318,23,3,20,0,0,Medium,18.67,50,Neutral,0.52,AR-based,High,Struggling
+P707,9-12,Early,S707,265,23,17,6,4,1,Medium,13.4,32,Frustrated,1.46,Physical Display,High,Struggling
+P708,9-12,Developing,S708,345,100,65,35,5,1,Medium,7.85,18,Happy,1.9,VR-based,Low,Struggling
+P709,3-5,Developing,S709,164,90,67,23,5,1,High,10.64,28,Happy,2.95,Physical Display,High,Optimal
+P710,9-12,Developing,S710,499,63,33,30,3,1,Medium,17.1,26,Frustrated,2.61,VR-based,Low,Struggling
+P711,9-12,Advanced,S711,228,45,23,22,1,1,High,26.22,41,Frustrated,0.64,AR-based,Low,Struggling
+P712,3-5,Early,S712,446,21,16,5,5,1,Low,27.3,30,Neutral,1.51,VR-based,High,Disengaged
+P713,9-12,Developing,S713,316,77,67,10,1,0,Medium,25.53,27,Frustrated,1.33,Physical Display,Low,Struggling
+P714,9-12,Advanced,S714,114,42,12,30,1,0,Low,21.19,11,Neutral,2.12,AR-based,Low,Disengaged
+P715,6-8,Developing,S715,419,73,40,33,3,0,Medium,21.94,19,Neutral,1.05,AR-based,Low,Struggling
+P716,6-8,Developing,S716,30,41,37,4,4,1,Medium,5.83,38,Happy,0.58,AR-based,High,Disengaged
+P717,3-5,Developing,S717,320,27,10,17,5,0,High,23.07,17,Happy,0.74,AR-based,Low,Struggling
+P718,3-5,Developing,S718,139,76,62,14,3,1,High,28.95,30,Frustrated,0.69,AR-based,High,Optimal
+P719,6-8,Advanced,S719,477,61,34,27,2,0,High,28.59,43,Neutral,2.52,Physical Display,Low,Struggling
+P720,3-5,Early,S720,194,34,30,4,0,1,Low,10.2,50,Neutral,0.76,AR-based,Medium,Disengaged
+P721,3-5,Advanced,S721,268,77,68,9,2,1,Low,20.94,19,Neutral,2.22,VR-based,Medium,Disengaged
+P722,6-8,Early,S722,143,29,15,14,2,0,Low,13.68,5,Frustrated,1.73,Physical Display,High,Disengaged
+P723,6-8,Advanced,S723,580,100,5,95,2,1,High,25.49,45,Frustrated,1.8,Physical Display,Medium,Struggling
+P724,9-12,Early,S724,86,19,10,9,0,0,Medium,5.7,27,Neutral,2.8,AR-based,Low,Struggling
+P725,6-8,Early,S725,365,86,7,79,1,0,High,5.41,50,Neutral,0.74,Physical Display,Medium,Struggling
+P726,3-5,Advanced,S726,539,32,14,18,0,0,High,8.73,22,Happy,2.58,VR-based,Medium,Struggling
+P727,6-8,Advanced,S727,242,13,10,3,3,0,High,10.8,17,Frustrated,2.13,Physical Display,Low,Optimal
+P728,9-12,Advanced,S728,594,55,25,30,1,1,High,12.68,21,Frustrated,2.5,VR-based,High,Struggling
+P729,3-5,Early,S729,205,100,5,95,2,0,High,6.29,9,Frustrated,1.56,AR-based,Medium,Struggling
+P730,6-8,Developing,S730,491,79,79,0,3,0,High,26.92,13,Frustrated,1.52,AR-based,Low,Optimal
+P731,9-12,Developing,S731,179,12,8,4,5,1,High,7.45,23,Neutral,1.81,VR-based,Low,Struggling
+P732,6-8,Advanced,S732,116,100,8,92,0,0,Low,20.17,38,Happy,1.64,AR-based,Low,Disengaged
+P733,3-5,Early,S733,256,54,0,54,0,1,Medium,22.46,45,Frustrated,2.34,Physical Display,Medium,Struggling
+P734,3-5,Developing,S734,481,50,25,25,0,0,Low,5.12,42,Happy,1.41,VR-based,Medium,Disengaged
+P735,6-8,Advanced,S735,586,54,14,40,2,0,High,24.69,32,Happy,2.1,Physical Display,Medium,Struggling
+P736,9-12,Developing,S736,156,75,48,27,5,0,Medium,12.46,47,Happy,0.5,Physical Display,Medium,Struggling
+P737,3-5,Early,S737,346,30,24,6,0,0,High,17.96,40,Frustrated,1.73,AR-based,Low,Optimal
+P738,9-12,Developing,S738,325,100,3,97,0,1,Low,17.62,49,Happy,2.24,Physical Display,Low,Disengaged
+P739,6-8,Developing,S739,274,30,28,2,4,1,Medium,25.59,35,Neutral,2.89,Physical Display,High,Struggling
+P740,6-8,Advanced,S740,168,47,45,2,0,0,High,7.27,11,Frustrated,0.87,VR-based,High,Optimal
+P741,3-5,Developing,S741,65,50,20,30,4,0,Medium,16.22,26,Happy,2.95,AR-based,Low,Struggling
+P742,9-12,Developing,S742,572,59,46,13,5,1,Medium,18.37,35,Neutral,2.8,VR-based,Low,Struggling
+P743,9-12,Early,S743,102,90,30,60,5,1,Low,7.8,13,Frustrated,1.4,Physical Display,High,Disengaged
+P744,3-5,Advanced,S744,299,98,10,88,5,1,High,25.45,47,Neutral,1.73,VR-based,Low,Struggling
+P745,9-12,Early,S745,101,11,8,3,4,0,High,13.94,44,Neutral,2.03,Physical Display,High,Optimal
+P746,6-8,Early,S746,92,85,51,34,5,0,High,28.86,28,Frustrated,2.45,VR-based,High,Struggling
+P747,9-12,Developing,S747,384,37,11,26,5,1,Low,13.45,25,Happy,2.1,AR-based,High,Disengaged
+P748,6-8,Early,S748,395,51,18,33,3,1,Low,11.77,39,Neutral,2.96,AR-based,High,Disengaged
+P749,9-12,Advanced,S749,492,49,46,3,2,1,Low,25.19,27,Happy,2.35,Physical Display,Medium,Disengaged
+P750,6-8,Advanced,S750,548,67,54,13,5,1,Medium,26.79,20,Neutral,2.56,AR-based,Medium,Struggling
+P751,6-8,Advanced,S751,367,35,10,25,0,1,Medium,10.28,26,Neutral,1.64,VR-based,Low,Struggling
+P752,6-8,Developing,S752,349,49,15,34,0,1,Medium,5.97,9,Neutral,0.81,VR-based,High,Struggling
+P753,9-12,Early,S753,429,23,9,14,3,0,Low,29.09,14,Neutral,0.59,AR-based,Low,Disengaged
+P754,3-5,Developing,S754,342,14,13,1,0,0,Low,23.97,9,Frustrated,1.93,VR-based,Low,Disengaged
+P755,9-12,Advanced,S755,571,88,16,72,0,0,High,26.06,50,Neutral,0.66,VR-based,Low,Struggling
+P756,6-8,Developing,S756,549,71,34,37,5,1,Medium,10.52,46,Frustrated,2.58,VR-based,Low,Struggling
+P757,6-8,Early,S757,358,76,52,24,0,0,Medium,10.99,25,Frustrated,2.96,Physical Display,High,Struggling
+P758,9-12,Developing,S758,400,21,13,8,3,1,Medium,6.91,43,Neutral,1.9,Physical Display,High,Struggling
+P759,3-5,Early,S759,471,63,49,14,1,0,High,12.54,15,Frustrated,0.63,VR-based,Low,Optimal
+P760,6-8,Developing,S760,444,30,10,20,0,0,Medium,11.79,13,Frustrated,0.58,AR-based,Medium,Struggling
+P761,9-12,Developing,S761,509,39,4,35,0,1,Medium,21.71,19,Neutral,1.05,Physical Display,Low,Struggling
+P762,6-8,Early,S762,279,25,3,22,2,0,High,12.76,26,Happy,0.51,AR-based,Medium,Struggling
+P763,3-5,Developing,S763,333,40,38,2,0,1,Medium,14.2,7,Neutral,0.71,AR-based,High,Struggling
+P764,9-12,Developing,S764,191,61,24,37,1,1,High,6.35,47,Neutral,2.6,Physical Display,High,Struggling
+P765,9-12,Developing,S765,114,70,24,46,3,1,High,28.79,50,Happy,2.65,Physical Display,Low,Struggling
+P766,6-8,Early,S766,241,28,28,0,4,1,Low,10.66,29,Happy,2.42,AR-based,High,Disengaged
+P767,9-12,Early,S767,421,30,29,1,1,1,High,8.51,31,Neutral,2.81,Physical Display,Low,Optimal
+P768,9-12,Early,S768,202,32,1,31,1,0,Low,24.58,22,Frustrated,2.9,Physical Display,Medium,Disengaged
+P769,9-12,Early,S769,297,13,7,6,5,1,Low,8.32,5,Frustrated,1.7,Physical Display,High,Disengaged
+P770,6-8,Early,S770,114,10,9,1,2,0,Medium,24.06,23,Frustrated,0.94,VR-based,Low,Struggling
+P771,6-8,Developing,S771,109,94,84,10,3,0,Low,7.44,40,Happy,1.9,Physical Display,Low,Disengaged
+P772,9-12,Developing,S772,237,28,13,15,0,1,High,22.64,46,Happy,1.05,Physical Display,Medium,Struggling
+P773,3-5,Advanced,S773,131,64,12,52,4,0,Medium,5.73,40,Happy,0.71,Physical Display,Medium,Struggling
+P774,3-5,Advanced,S774,486,98,64,34,5,0,High,21.3,45,Happy,2.08,Physical Display,Low,Struggling
+P775,6-8,Advanced,S775,337,61,36,25,1,0,High,26.49,20,Frustrated,1.3,VR-based,High,Struggling
+P776,9-12,Developing,S776,94,70,41,29,5,0,High,5.5,16,Happy,0.95,Physical Display,High,Struggling
+P777,9-12,Advanced,S777,501,10,7,3,2,1,High,15.0,21,Neutral,2.95,VR-based,High,Struggling
+P778,9-12,Advanced,S778,231,35,29,6,2,0,High,28.97,17,Happy,0.91,AR-based,Medium,Optimal
+P779,6-8,Developing,S779,76,46,32,14,0,0,High,19.01,10,Frustrated,1.42,AR-based,High,Struggling
+P780,6-8,Advanced,S780,387,51,48,3,1,1,High,23.55,48,Happy,2.83,VR-based,Medium,Optimal
+P781,9-12,Advanced,S781,448,78,15,63,4,1,Medium,10.68,22,Happy,1.83,AR-based,High,Struggling
+P782,6-8,Early,S782,327,78,5,73,2,0,High,20.52,31,Frustrated,1.19,AR-based,High,Struggling
+P783,6-8,Developing,S783,454,85,0,85,0,1,Medium,7.9,11,Happy,2.33,Physical Display,Medium,Struggling
+P784,6-8,Developing,S784,302,89,51,38,1,0,High,5.47,25,Frustrated,2.81,VR-based,Low,Struggling
+P785,6-8,Developing,S785,229,87,78,9,3,1,High,15.59,49,Frustrated,2.4,Physical Display,Low,Optimal
+P786,3-5,Developing,S786,35,58,49,9,3,1,Medium,24.36,26,Frustrated,2.42,AR-based,Low,Disengaged
+P787,9-12,Early,S787,216,28,11,17,3,1,High,14.3,10,Neutral,2.52,VR-based,Medium,Struggling
+P788,3-5,Developing,S788,285,62,38,24,0,1,High,25.52,8,Frustrated,2.44,VR-based,Low,Struggling
+P789,3-5,Developing,S789,378,17,6,11,1,0,Medium,19.82,17,Frustrated,2.99,Physical Display,Low,Struggling
+P790,9-12,Advanced,S790,588,74,64,10,0,1,Medium,6.01,42,Neutral,0.66,VR-based,Low,Struggling
+P791,3-5,Developing,S791,503,90,49,41,3,1,High,24.14,20,Neutral,1.12,AR-based,Low,Struggling
+P792,9-12,Advanced,S792,360,90,58,32,3,1,Medium,7.6,37,Happy,2.95,AR-based,High,Struggling
+P793,9-12,Developing,S793,108,91,16,75,3,1,High,17.53,18,Happy,2.14,AR-based,High,Struggling
+P794,3-5,Advanced,S794,426,73,15,58,0,0,Low,6.32,24,Frustrated,2.09,VR-based,High,Disengaged
+P795,9-12,Advanced,S795,557,63,23,40,4,1,Medium,22.83,39,Neutral,0.98,VR-based,High,Struggling
+P796,3-5,Developing,S796,544,78,40,38,5,1,Low,17.06,11,Neutral,0.95,AR-based,High,Disengaged
+P797,3-5,Developing,S797,443,19,13,6,5,0,High,9.83,21,Happy,2.52,AR-based,Low,Struggling
+P798,3-5,Developing,S798,451,66,43,23,0,1,Medium,23.29,12,Frustrated,2.84,AR-based,High,Struggling
+P799,6-8,Advanced,S799,357,15,13,2,2,0,High,17.79,34,Happy,2.17,Physical Display,Low,Optimal
+P800,9-12,Developing,S800,213,95,64,31,4,0,Low,20.78,50,Happy,2.36,Physical Display,Medium,Disengaged
+P801,3-5,Early,S801,31,83,1,82,5,1,Low,25.36,20,Neutral,2.31,Physical Display,High,Disengaged
+P802,9-12,Advanced,S802,514,38,28,10,5,0,High,23.27,26,Frustrated,2.17,Physical Display,High,Optimal
+P803,6-8,Advanced,S803,83,83,45,38,3,0,High,22.14,5,Happy,1.78,Physical Display,Low,Struggling
+P804,6-8,Advanced,S804,30,46,6,40,1,1,Medium,27.57,18,Happy,0.64,Physical Display,High,Disengaged
+P805,9-12,Early,S805,241,61,27,34,1,0,Medium,8.33,5,Neutral,2.94,VR-based,Medium,Struggling
+P806,3-5,Early,S806,75,18,12,6,3,1,High,20.4,40,Neutral,1.22,Physical Display,Medium,Struggling
+P807,9-12,Early,S807,578,69,25,44,1,1,High,12.64,39,Neutral,2.4,VR-based,High,Struggling
+P808,9-12,Early,S808,348,70,56,14,5,0,Medium,29.33,8,Neutral,2.24,AR-based,Low,Struggling
+P809,6-8,Advanced,S809,405,14,9,5,3,0,High,13.9,49,Happy,2.45,AR-based,Low,Struggling
+P810,9-12,Early,S810,263,56,24,32,1,0,Low,9.76,37,Happy,1.05,VR-based,High,Disengaged
+P811,3-5,Developing,S811,237,39,11,28,2,1,Medium,10.06,22,Happy,2.86,VR-based,Low,Struggling
+P812,9-12,Advanced,S812,175,39,16,23,2,0,Low,26.47,31,Neutral,0.53,AR-based,High,Disengaged
+P813,9-12,Developing,S813,595,85,4,81,3,1,Medium,14.15,13,Frustrated,0.93,Physical Display,Medium,Struggling
+P814,9-12,Advanced,S814,193,34,15,19,1,0,Low,16.6,47,Happy,2.25,VR-based,Low,Disengaged
+P815,9-12,Early,S815,40,51,46,5,1,1,High,5.46,7,Neutral,0.97,VR-based,High,Optimal
+P816,3-5,Early,S816,444,34,28,6,2,1,Low,7.77,26,Neutral,2.12,Physical Display,High,Disengaged
+P817,3-5,Developing,S817,507,47,25,22,5,0,High,20.8,19,Happy,2.01,VR-based,Low,Struggling
+P818,3-5,Early,S818,578,88,73,15,4,1,Low,5.88,34,Happy,1.77,Physical Display,High,Disengaged
+P819,9-12,Advanced,S819,381,55,0,55,4,0,Low,18.76,41,Frustrated,2.71,VR-based,Low,Disengaged
+P820,6-8,Developing,S820,549,26,16,10,5,1,Low,29.49,47,Frustrated,1.41,VR-based,Medium,Disengaged
+P821,6-8,Advanced,S821,184,58,31,27,3,0,Medium,19.24,35,Frustrated,1.4,VR-based,High,Struggling
+P822,3-5,Developing,S822,420,61,13,48,3,1,Medium,22.97,26,Happy,1.5,Physical Display,Medium,Struggling
+P823,6-8,Developing,S823,166,92,14,78,3,0,Medium,25.97,30,Frustrated,2.27,VR-based,Low,Struggling
+P824,9-12,Developing,S824,520,12,9,3,0,1,Low,27.67,8,Neutral,1.48,VR-based,High,Disengaged
+P825,9-12,Early,S825,392,99,39,60,0,1,Medium,20.64,24,Frustrated,2.79,AR-based,Medium,Struggling
+P826,6-8,Early,S826,438,79,29,50,3,0,High,26.41,30,Neutral,2.4,AR-based,High,Struggling
+P827,9-12,Advanced,S827,332,13,6,7,3,0,Medium,5.62,5,Neutral,0.9,Physical Display,Medium,Struggling
+P828,9-12,Early,S828,532,85,79,6,0,0,Low,26.8,14,Happy,0.76,VR-based,High,Disengaged
+P829,3-5,Advanced,S829,445,26,3,23,3,0,High,19.32,20,Frustrated,1.57,AR-based,Low,Struggling
+P830,6-8,Developing,S830,517,20,17,3,2,1,Low,27.83,29,Frustrated,1.1,AR-based,High,Disengaged
+P831,3-5,Advanced,S831,434,77,59,18,3,0,High,28.24,13,Frustrated,2.9,AR-based,Medium,Optimal
+P832,6-8,Developing,S832,341,26,20,6,3,0,High,23.3,41,Frustrated,1.22,Physical Display,Medium,Optimal
+P833,3-5,Advanced,S833,38,60,44,16,2,1,High,9.05,15,Frustrated,2.16,VR-based,Low,Optimal
+P834,6-8,Advanced,S834,225,56,42,14,0,1,Medium,21.03,24,Frustrated,2.24,AR-based,Low,Struggling
+P835,3-5,Developing,S835,544,53,10,43,1,0,Medium,29.09,49,Neutral,2.12,Physical Display,Medium,Struggling
+P836,6-8,Advanced,S836,281,11,5,6,5,0,High,6.4,34,Neutral,0.64,VR-based,High,Struggling
+P837,3-5,Developing,S837,102,71,21,50,2,1,High,22.64,49,Frustrated,1.78,VR-based,Medium,Struggling
+P838,9-12,Early,S838,533,10,9,1,5,0,High,26.29,20,Happy,0.72,VR-based,High,Optimal
+P839,3-5,Developing,S839,159,81,40,41,3,0,Medium,21.48,35,Neutral,2.19,VR-based,Medium,Struggling
+P840,9-12,Early,S840,50,76,7,69,1,0,Medium,20.85,34,Neutral,2.7,VR-based,High,Disengaged
+P841,6-8,Advanced,S841,584,29,16,13,5,0,High,21.49,48,Frustrated,2.4,VR-based,High,Struggling
+P842,9-12,Early,S842,308,16,15,1,2,0,Medium,13.59,29,Frustrated,1.79,VR-based,High,Struggling
+P843,9-12,Early,S843,466,71,44,27,4,0,High,15.0,25,Frustrated,2.64,Physical Display,Medium,Struggling
+P844,6-8,Early,S844,234,85,49,36,2,1,Low,20.04,5,Neutral,1.94,AR-based,Medium,Disengaged
+P845,9-12,Early,S845,501,27,11,16,4,1,High,12.38,8,Neutral,0.71,Physical Display,High,Struggling
+P846,6-8,Early,S846,273,69,56,13,0,1,Low,29.08,21,Neutral,2.04,VR-based,Low,Disengaged
+P847,6-8,Advanced,S847,179,20,12,8,3,0,Medium,19.45,16,Happy,1.84,AR-based,Medium,Struggling
+P848,9-12,Early,S848,542,91,91,0,1,1,High,18.66,23,Frustrated,1.63,AR-based,High,Optimal
+P849,6-8,Developing,S849,299,33,6,27,4,0,Medium,20.74,33,Frustrated,2.08,VR-based,High,Struggling
+P850,3-5,Early,S850,506,97,28,69,4,1,Medium,10.18,26,Frustrated,1.36,Physical Display,Medium,Struggling
+P851,9-12,Advanced,S851,224,77,57,20,0,1,Low,7.87,46,Neutral,1.12,AR-based,Medium,Disengaged
+P852,3-5,Early,S852,362,13,11,2,0,1,Low,16.61,22,Frustrated,1.53,Physical Display,Medium,Disengaged
+P853,6-8,Advanced,S853,88,22,10,12,3,1,Medium,5.97,50,Neutral,1.81,Physical Display,Low,Struggling
+P854,6-8,Early,S854,497,71,3,68,2,0,Medium,23.15,41,Happy,1.14,AR-based,Low,Struggling
+P855,3-5,Developing,S855,311,91,89,2,1,1,High,13.0,25,Happy,0.95,Physical Display,High,Optimal
+P856,6-8,Advanced,S856,255,44,30,14,5,1,Medium,26.59,19,Frustrated,1.76,AR-based,High,Struggling
+P857,9-12,Early,S857,326,24,8,16,1,1,High,15.41,27,Frustrated,1.77,Physical Display,High,Struggling
+P858,6-8,Advanced,S858,160,70,61,9,0,0,Low,13.74,38,Frustrated,1.93,VR-based,Medium,Disengaged
+P859,9-12,Developing,S859,279,40,26,14,2,1,Medium,15.28,33,Happy,0.51,VR-based,Low,Struggling
+P860,3-5,Early,S860,31,98,98,0,5,0,High,27.64,45,Frustrated,1.28,VR-based,Low,Optimal
+P861,9-12,Developing,S861,158,84,14,70,1,0,High,7.08,19,Frustrated,1.18,Physical Display,Medium,Struggling
+P862,9-12,Advanced,S862,284,62,44,18,0,0,High,22.68,37,Neutral,1.64,VR-based,Low,Optimal
+P863,3-5,Early,S863,210,30,27,3,1,0,Low,7.07,43,Frustrated,0.82,VR-based,Medium,Disengaged
+P864,3-5,Early,S864,576,45,22,23,2,0,Medium,27.39,29,Frustrated,2.68,AR-based,High,Struggling
+P865,9-12,Developing,S865,31,99,19,80,4,1,High,28.07,7,Frustrated,1.81,AR-based,Medium,Disengaged
+P866,9-12,Advanced,S866,468,64,19,45,4,1,High,11.74,32,Happy,2.12,AR-based,Medium,Struggling
+P867,9-12,Developing,S867,474,76,7,69,4,1,Medium,15.84,47,Happy,1.71,Physical Display,Medium,Struggling
+P868,6-8,Advanced,S868,177,88,25,63,2,0,High,27.05,25,Frustrated,2.86,Physical Display,High,Struggling
+P869,3-5,Early,S869,155,93,47,46,2,0,High,9.64,37,Frustrated,1.07,AR-based,Medium,Struggling
+P870,6-8,Early,S870,461,91,59,32,5,1,Low,13.93,48,Neutral,2.08,AR-based,High,Disengaged
+P871,3-5,Developing,S871,600,64,45,19,0,1,Medium,10.83,13,Neutral,0.95,VR-based,Low,Struggling
+P872,3-5,Advanced,S872,135,35,6,29,2,1,High,15.2,43,Frustrated,0.74,Physical Display,Low,Struggling
+P873,3-5,Developing,S873,266,54,23,31,4,0,High,6.15,40,Frustrated,2.37,Physical Display,Low,Struggling
+P874,9-12,Developing,S874,127,62,48,14,3,0,Medium,5.3,25,Happy,1.37,VR-based,Medium,Struggling
+P875,6-8,Developing,S875,210,56,30,26,1,0,Medium,9.28,50,Frustrated,0.66,Physical Display,High,Struggling
+P876,6-8,Developing,S876,575,95,42,53,3,1,Low,8.34,25,Frustrated,0.71,Physical Display,Low,Disengaged
+P877,9-12,Early,S877,554,81,1,80,5,0,Medium,26.41,26,Neutral,1.0,Physical Display,Low,Struggling
+P878,9-12,Advanced,S878,37,53,20,33,2,1,High,24.94,34,Happy,2.72,Physical Display,High,Disengaged
+P879,6-8,Advanced,S879,287,15,11,4,1,1,Low,21.57,47,Frustrated,2.19,VR-based,Medium,Disengaged
+P880,9-12,Early,S880,312,13,6,7,3,1,High,6.67,50,Neutral,1.11,Physical Display,High,Struggling
+P881,6-8,Early,S881,577,77,61,16,3,0,High,13.92,40,Frustrated,1.07,Physical Display,Medium,Optimal
+P882,6-8,Early,S882,364,70,24,46,0,0,Low,28.13,47,Happy,2.52,Physical Display,Low,Disengaged
+P883,9-12,Advanced,S883,424,14,3,11,5,0,High,12.62,10,Frustrated,2.98,AR-based,Medium,Struggling
+P884,3-5,Early,S884,198,39,32,7,5,0,High,11.51,39,Neutral,0.52,VR-based,High,Optimal
+P885,9-12,Developing,S885,404,76,33,43,3,1,High,16.28,42,Happy,1.14,VR-based,High,Struggling
+P886,9-12,Developing,S886,38,99,92,7,5,1,High,29.33,35,Happy,1.33,VR-based,High,Optimal
+P887,6-8,Developing,S887,289,55,50,5,3,0,Medium,25.96,14,Neutral,1.22,VR-based,High,Struggling
+P888,6-8,Advanced,S888,335,98,74,24,5,1,Low,23.32,15,Happy,1.4,AR-based,Medium,Disengaged
+P889,3-5,Advanced,S889,198,63,50,13,5,1,Medium,7.7,18,Neutral,2.18,AR-based,Medium,Struggling
+P890,6-8,Early,S890,478,10,3,7,1,1,High,11.04,5,Happy,1.47,Physical Display,High,Struggling
+P891,6-8,Early,S891,587,43,28,15,0,1,Medium,8.4,14,Frustrated,2.99,Physical Display,Medium,Struggling
+P892,6-8,Developing,S892,487,20,7,13,5,0,Medium,13.71,14,Neutral,1.6,VR-based,Low,Struggling
+P893,3-5,Developing,S893,46,89,83,6,1,0,Medium,18.31,36,Neutral,0.99,AR-based,Medium,Disengaged
+P894,3-5,Developing,S894,387,64,0,64,4,0,Low,7.4,43,Neutral,2.23,VR-based,Low,Disengaged
+P895,6-8,Early,S895,480,86,36,50,1,1,Medium,25.08,35,Happy,0.96,AR-based,Low,Struggling
+P896,6-8,Early,S896,196,48,18,30,4,1,High,7.22,46,Happy,2.79,Physical Display,Low,Struggling
+P897,9-12,Developing,S897,523,36,13,23,1,1,Medium,10.42,9,Happy,1.5,VR-based,High,Struggling
+P898,6-8,Early,S898,583,95,29,66,1,0,Low,27.99,33,Neutral,1.08,VR-based,High,Disengaged
+P899,9-12,Early,S899,127,30,25,5,0,1,High,21.54,8,Frustrated,2.06,AR-based,High,Optimal
+P900,6-8,Developing,S900,51,20,8,12,3,0,High,24.33,43,Frustrated,1.88,AR-based,High,Disengaged
+P901,3-5,Developing,S901,459,94,48,46,5,1,Medium,12.6,32,Happy,1.52,VR-based,Medium,Struggling
+P902,9-12,Developing,S902,133,28,10,18,4,0,Medium,16.08,15,Neutral,2.17,Physical Display,High,Struggling
+P903,9-12,Developing,S903,262,35,4,31,1,0,Low,16.43,6,Frustrated,2.58,Physical Display,Medium,Disengaged
+P904,9-12,Developing,S904,220,31,11,20,1,1,High,13.36,5,Happy,0.69,Physical Display,High,Struggling
+P905,6-8,Developing,S905,350,90,24,66,5,0,High,25.91,43,Frustrated,1.47,AR-based,Low,Struggling
+P906,6-8,Early,S906,102,97,79,18,1,1,Medium,25.53,40,Frustrated,1.05,Physical Display,Low,Struggling
+P907,3-5,Early,S907,564,36,32,4,2,0,High,15.59,36,Happy,2.74,AR-based,Low,Optimal
+P908,9-12,Early,S908,182,28,14,14,1,0,High,15.8,22,Happy,2.67,VR-based,Medium,Struggling
+P909,9-12,Developing,S909,531,19,0,19,3,0,Low,9.84,49,Neutral,2.31,Physical Display,Medium,Disengaged
+P910,6-8,Early,S910,221,84,19,65,1,0,Medium,29.3,48,Neutral,0.58,AR-based,High,Struggling
+P911,9-12,Early,S911,246,78,70,8,2,1,Low,22.59,48,Happy,1.21,VR-based,Low,Disengaged
+P912,6-8,Developing,S912,478,18,11,7,3,1,Medium,9.59,37,Happy,0.62,AR-based,Low,Struggling
+P913,9-12,Advanced,S913,35,31,31,0,3,1,Low,18.66,36,Frustrated,1.35,VR-based,High,Disengaged
+P914,3-5,Advanced,S914,59,28,18,10,3,1,High,7.65,42,Frustrated,2.98,VR-based,Low,Disengaged
+P915,6-8,Developing,S915,135,34,32,2,1,0,High,7.48,35,Neutral,2.98,VR-based,Medium,Optimal
+P916,6-8,Early,S916,144,75,1,74,3,0,High,20.32,38,Neutral,2.34,Physical Display,Low,Struggling
+P917,6-8,Developing,S917,335,95,24,71,4,0,Low,10.88,46,Happy,2.06,AR-based,Low,Disengaged
+P918,6-8,Developing,S918,569,79,12,67,5,1,High,22.0,30,Neutral,1.84,AR-based,Low,Struggling
+P919,6-8,Early,S919,400,56,37,19,0,1,Medium,9.28,17,Happy,2.64,AR-based,Medium,Struggling
+P920,3-5,Early,S920,194,44,22,22,2,0,High,19.61,48,Happy,2.64,Physical Display,Medium,Struggling
+P921,6-8,Developing,S921,471,37,9,28,5,0,Medium,29.59,47,Happy,2.77,VR-based,High,Struggling
+P922,9-12,Advanced,S922,239,91,82,9,4,0,Medium,14.5,49,Neutral,2.63,Physical Display,Low,Struggling
+P923,6-8,Early,S923,122,93,28,65,2,0,High,18.83,38,Neutral,1.09,VR-based,High,Struggling
+P924,6-8,Advanced,S924,441,21,0,21,4,0,Medium,7.21,37,Neutral,0.94,AR-based,High,Struggling
+P925,9-12,Advanced,S925,158,17,10,7,2,0,Medium,20.32,12,Happy,1.42,VR-based,Medium,Struggling
+P926,6-8,Early,S926,155,97,0,97,5,0,High,8.63,21,Happy,0.82,VR-based,High,Struggling
+P927,9-12,Early,S927,487,84,2,82,4,0,Medium,8.29,32,Neutral,1.71,VR-based,Medium,Struggling
+P928,6-8,Advanced,S928,47,13,13,0,5,0,High,18.19,11,Happy,1.12,Physical Display,Low,Optimal
+P929,9-12,Advanced,S929,188,59,15,44,2,0,Low,21.04,8,Neutral,2.35,VR-based,High,Disengaged
+P930,6-8,Early,S930,589,47,46,1,0,0,High,12.28,48,Neutral,1.73,Physical Display,Medium,Optimal
+P931,3-5,Developing,S931,123,64,61,3,3,1,High,12.45,49,Frustrated,2.11,AR-based,High,Optimal
+P932,9-12,Developing,S932,110,66,1,65,2,1,Medium,12.72,42,Neutral,1.72,AR-based,High,Struggling
+P933,6-8,Advanced,S933,453,32,8,24,5,0,Medium,29.17,23,Happy,2.92,VR-based,Medium,Struggling
+P934,6-8,Advanced,S934,82,71,21,50,2,0,High,15.44,47,Neutral,1.95,Physical Display,High,Struggling
+P935,9-12,Early,S935,439,99,83,16,2,1,Medium,9.62,32,Neutral,1.13,AR-based,Low,Struggling
+P936,6-8,Advanced,S936,252,94,23,71,1,0,High,9.08,24,Frustrated,1.76,AR-based,Medium,Struggling
+P937,9-12,Early,S937,333,80,11,69,0,1,High,17.87,41,Neutral,1.21,VR-based,Medium,Struggling
+P938,9-12,Developing,S938,571,92,64,28,4,1,Medium,11.43,28,Happy,0.74,Physical Display,Low,Struggling
+P939,9-12,Early,S939,568,95,13,82,3,0,Medium,9.26,26,Neutral,2.04,VR-based,Medium,Struggling
+P940,3-5,Early,S940,138,38,2,36,0,1,High,28.05,8,Happy,1.35,VR-based,Medium,Struggling
+P941,9-12,Advanced,S941,436,38,22,16,0,1,Medium,8.61,22,Neutral,1.86,VR-based,Low,Struggling
+P942,6-8,Advanced,S942,424,46,26,20,5,0,Medium,20.91,44,Frustrated,1.05,VR-based,Low,Struggling
+P943,3-5,Advanced,S943,96,81,53,28,2,0,Medium,11.71,9,Happy,0.74,Physical Display,High,Struggling
+P944,3-5,Advanced,S944,418,50,7,43,1,1,Medium,7.79,8,Frustrated,2.74,AR-based,High,Struggling
+P945,3-5,Early,S945,329,60,35,25,0,0,Medium,12.73,41,Neutral,1.7,Physical Display,High,Struggling
+P946,3-5,Developing,S946,162,73,30,43,4,1,High,7.09,7,Frustrated,0.68,VR-based,High,Struggling
+P947,6-8,Advanced,S947,286,21,19,2,4,1,Medium,26.54,16,Happy,2.45,Physical Display,Medium,Struggling
+P948,9-12,Early,S948,513,42,11,31,4,1,Medium,9.88,7,Happy,2.03,Physical Display,Medium,Struggling
+P949,9-12,Developing,S949,147,36,0,36,1,1,Medium,9.15,20,Happy,1.8,Physical Display,Low,Struggling
+P950,6-8,Advanced,S950,568,52,24,28,4,1,High,21.23,15,Happy,2.94,AR-based,Low,Struggling
+P951,9-12,Early,S951,62,82,15,67,3,1,High,12.05,14,Happy,1.25,AR-based,High,Struggling
+P952,3-5,Early,S952,310,31,1,30,1,1,Medium,18.38,48,Frustrated,2.13,AR-based,Medium,Struggling
+P953,3-5,Advanced,S953,171,16,11,5,1,0,High,23.6,34,Happy,2.43,AR-based,Low,Struggling
+P954,3-5,Developing,S954,336,76,50,26,0,1,High,9.34,29,Frustrated,0.59,Physical Display,High,Struggling
+P955,3-5,Advanced,S955,114,65,36,29,2,0,Low,24.67,48,Happy,1.06,VR-based,Low,Disengaged
+P956,3-5,Early,S956,411,87,46,41,1,0,Medium,27.88,15,Happy,1.63,AR-based,Low,Struggling
+P957,6-8,Advanced,S957,526,73,62,11,1,1,Medium,24.33,35,Frustrated,2.17,VR-based,Low,Struggling
+P958,3-5,Early,S958,312,40,19,21,3,1,High,21.04,39,Happy,1.81,Physical Display,High,Struggling
+P959,3-5,Developing,S959,433,33,23,10,0,1,Medium,9.51,27,Happy,1.0,Physical Display,Medium,Struggling
+P960,6-8,Developing,S960,336,98,7,91,5,0,High,6.66,31,Happy,2.26,AR-based,Low,Struggling
+P961,6-8,Early,S961,441,99,4,95,4,1,Medium,9.85,22,Frustrated,1.05,AR-based,Medium,Struggling
+P962,3-5,Advanced,S962,522,38,13,25,4,1,Medium,13.33,27,Happy,2.96,Physical Display,Medium,Struggling
+P963,6-8,Developing,S963,156,93,72,21,3,0,Low,15.79,46,Happy,0.86,VR-based,High,Disengaged
+P964,6-8,Developing,S964,475,28,15,13,4,1,Medium,19.95,48,Neutral,0.78,VR-based,High,Struggling
+P965,6-8,Advanced,S965,372,14,2,12,4,1,Medium,27.82,28,Frustrated,1.69,Physical Display,Low,Struggling
+P966,6-8,Advanced,S966,453,61,47,14,0,0,High,8.03,26,Happy,0.55,Physical Display,High,Optimal
+P967,9-12,Developing,S967,594,35,10,25,3,1,Medium,22.86,43,Neutral,0.51,Physical Display,High,Struggling
+P968,9-12,Developing,S968,150,73,1,72,0,0,High,21.34,47,Frustrated,1.21,AR-based,High,Struggling
+P969,6-8,Advanced,S969,521,47,38,9,2,0,Medium,20.62,5,Frustrated,1.91,AR-based,Low,Struggling
+P970,9-12,Developing,S970,594,37,25,12,5,1,High,7.11,32,Neutral,0.57,AR-based,Medium,Struggling
+P971,3-5,Early,S971,550,92,3,89,0,0,High,6.06,14,Happy,0.83,Physical Display,Medium,Struggling
+P972,3-5,Developing,S972,187,78,56,22,4,1,High,24.41,44,Neutral,2.07,VR-based,High,Optimal
+P973,9-12,Developing,S973,312,15,12,3,0,0,High,27.98,10,Neutral,0.85,VR-based,High,Optimal
+P974,3-5,Developing,S974,430,87,4,83,3,1,High,8.41,12,Frustrated,2.57,VR-based,Low,Struggling
+P975,6-8,Developing,S975,466,41,15,26,3,0,High,10.02,42,Frustrated,0.8,VR-based,Medium,Struggling
+P976,3-5,Developing,S976,190,80,40,40,5,0,High,22.87,27,Neutral,1.2,Physical Display,Medium,Struggling
+P977,6-8,Early,S977,436,21,10,11,1,1,Low,23.84,19,Happy,0.65,AR-based,Low,Disengaged
+P978,3-5,Advanced,S978,377,93,29,64,0,0,Medium,24.37,39,Happy,1.55,AR-based,Medium,Struggling
+P979,3-5,Advanced,S979,522,98,53,45,3,0,Medium,7.03,22,Frustrated,0.86,VR-based,High,Struggling
+P980,6-8,Early,S980,434,61,16,45,4,0,Medium,24.56,35,Frustrated,1.6,AR-based,Low,Struggling
+P981,3-5,Advanced,S981,42,74,66,8,2,1,Medium,17.6,30,Frustrated,1.95,Physical Display,Medium,Disengaged
+P982,9-12,Advanced,S982,291,31,12,19,1,1,Medium,5.64,43,Happy,2.98,AR-based,Medium,Struggling
+P983,3-5,Advanced,S983,341,80,77,3,4,0,Low,19.59,13,Neutral,1.47,Physical Display,High,Disengaged
+P984,9-12,Advanced,S984,73,35,17,18,5,0,Medium,21.6,40,Happy,0.69,VR-based,Medium,Struggling
+P985,3-5,Advanced,S985,364,73,5,68,4,1,High,19.39,46,Happy,1.99,VR-based,Medium,Struggling
+P986,9-12,Early,S986,244,62,22,40,5,0,Medium,22.41,23,Frustrated,0.6,VR-based,High,Struggling
+P987,3-5,Developing,S987,110,13,7,6,1,0,Low,12.29,43,Neutral,0.96,VR-based,High,Disengaged
+P988,9-12,Developing,S988,212,37,30,7,0,1,Medium,19.06,40,Frustrated,0.75,AR-based,Low,Struggling
+P989,9-12,Early,S989,340,19,0,19,4,0,Medium,14.21,34,Frustrated,2.01,Physical Display,Low,Struggling
+P990,6-8,Early,S990,243,43,41,2,5,0,Low,18.01,35,Neutral,1.46,AR-based,Medium,Disengaged
+P991,3-5,Early,S991,317,42,11,31,1,0,Low,18.44,18,Neutral,1.69,VR-based,Medium,Disengaged
+P992,6-8,Early,S992,318,25,9,16,0,1,High,25.37,6,Frustrated,1.68,AR-based,High,Struggling
+P993,9-12,Developing,S993,53,12,10,2,2,0,Medium,18.7,45,Frustrated,1.97,AR-based,High,Disengaged
+P994,9-12,Advanced,S994,351,74,27,47,0,0,High,18.98,16,Neutral,0.68,AR-based,High,Struggling
+P995,9-12,Advanced,S995,400,77,12,65,5,1,Low,23.21,14,Neutral,1.0,Physical Display,Medium,Disengaged
+P996,9-12,Advanced,S996,105,93,34,59,2,0,High,6.5,31,Frustrated,0.71,AR-based,High,Struggling
+P997,3-5,Developing,S997,111,98,20,78,3,0,High,24.43,47,Neutral,0.94,VR-based,Low,Struggling
+P998,6-8,Advanced,S998,349,88,45,43,3,0,High,18.66,8,Neutral,2.57,Physical Display,Low,Struggling
+P999,3-5,Developing,S999,203,82,73,9,3,1,Low,11.2,45,Happy,2.6,VR-based,Low,Disengaged
+P1000,6-8,Early,S1000,119,42,22,20,5,0,Medium,10.31,20,Frustrated,1.54,VR-based,Medium,Struggling

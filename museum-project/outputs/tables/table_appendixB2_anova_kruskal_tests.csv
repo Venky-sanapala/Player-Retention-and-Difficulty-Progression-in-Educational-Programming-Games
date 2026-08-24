@@ -1,0 +1,5 @@
+Test,F,p_ANOVA,eta_sq,H,p_KW,epsilon_sq
+Hint_Usage by Performance_Level,1.228,0.2932,0.0025,2.464,0.2917,0.0025
+Incorrect_Responses by Performance_Level,63.216,0.0,0.1125,151.902,0.0,0.1521
+Reaction_Time by Museum_Exhibit_Type,1.312,0.2698,0.0026,2.572,0.2764,0.0026
+Time_Spent by Crowd_Level,3.368,0.0349,0.0067,6.839,0.0327,0.0068

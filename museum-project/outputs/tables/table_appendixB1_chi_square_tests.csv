@@ -1,0 +1,6 @@
+Test,chi2,df,p,Cramers_V
+Cognitive_Level x Performance_Level,0.793,4,0.9394,0.02
+Cognitive_Level x Game_Completion_Status,5.038,2,0.0806,0.071
+Museum_Exhibit_Type x Engagement_Level,1.275,4,0.8656,0.025
+Museum_Exhibit_Type x Performance_Level,1.284,4,0.8641,0.025
+Crowd_Level x Game_Completion_Status,2.353,2,0.3083,0.049

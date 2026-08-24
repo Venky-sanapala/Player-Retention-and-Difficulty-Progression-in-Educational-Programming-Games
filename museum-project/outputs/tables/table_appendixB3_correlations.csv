@@ -1,0 +1,5 @@
+Pair,r,p
+Eye_Tracking_Focus_Duration x Correct_Responses,0.009,0.7821
+Touch_Interactions x Correct_Responses,0.011,0.7338
+Eye_Tracking_Focus_Duration x Game_Completion_Status,-0.019,0.5575
+Touch_Interactions x Game_Completion_Status,-0.031,0.3304
